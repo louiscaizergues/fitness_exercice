@@ -1,0 +1,701 @@
+order_id,order_date,customer_id,product_category,product_name,price,quantity,payment_method,region,sales_channel
+7d10aa69-35d4-42ef-b8c7-3b143283219d,2024-08-19,78967aad-349d-4868-8919-cd4a6d2b2b2f,Yoga,Everything Yoga,190.19,4,Google Pay,Hauts-de-France,Marketplace
+b427ab77-8cd7-4063-83be-4e04088ec0ef,2025-02-23,24ad3f96-d67a-44df-b819-6796250b62de,Cardio,Pull Cardio,155.93,1,Google Pay,Grand Est,Marketplace
+d34eddd0-e7af-4f2f-b429-f19d02b9f0cc,2024-10-30,83378fe3-b0c1-42e7-a9d6-5c59c4d44fd3,Cardio,Enough Cardio,143.46,1,Carte bancaire,Île-de-France,Site web
+69e39c0c-c5ad-400a-b02b-0560c769942f,2024-08-27,89f2472d-cebd-4bbd-9175-1f5da2c2511c,Fitness,House Fitness,23.15,3,Google Pay,Occitanie,Site web
+23f6d7fb-bf33-4f59-841a-cd0408e7de3d,2024-05-19,c8266a6e-74e6-4e4a-8b35-d92bc244f21d,Fitness,Friend Fitness,230.08,3,PayPal,Île-de-France,Site web
+fd9ad3e5-8fe3-4132-b72c-90b50006eb2a,2024-05-26,ee58d999-9836-4547-af99-8fe1293ecb2f,Fitness,Explain Fitness,109.18,2,Carte bancaire,Grand Est,Site web
+0fd11ddd-4341-457e-91c0-fcace9408365,2024-08-28,f8179040-b40a-454f-817a-5dfbde0faeca,Fitness,View Fitness,124.13,2,Carte bancaire,Grand Est,Site web
+c89fed2a-afff-4d58-b1d9-21175553f766,2024-12-19,31989912-d662-4739-90f8-96decff029be,Vêtements,Individual Vêtements,43.76,3,Carte bancaire,Hauts-de-France,Site web
+0d03b4d6-9469-48d6-ac44-8962fd9ac6b4,2024-07-25,5d948cc7-a083-4c4c-94e1-41d7c40ab9d0,Cardio,Agree Cardio,140.05,2,Apple Pay,Bretagne,Site web
+5435998c-b7ee-4600-89b2-31ea238857c8,2025-03-17,010be5da-9771-45df-8e34-f58fd353e2f4,Fitness,Everybody Fitness,111.78,3,Carte bancaire,Île-de-France,Site web
+c1bcf736-4045-4265-b8dd-12b69d59ad12,2024-04-06,7c038633-de62-4dd7-80ec-ead8d9d1deaf,Accessoires,Everything Accessoires,42.94,4,Apple Pay,Occitanie,Marketplace
+9a60498e-755d-4d81-9e21-5a5c4391be56,2024-08-24,9413babe-0c40-4f2f-91df-fcfd9c1d525d,Accessoires,Analysis Accessoires,219.54,4,Google Pay,Hauts-de-France,Application mobile
+bbe8624c-9a84-4a8a-88c9-9c50f4b67acc,2024-06-01,fa7a22fe-0c88-4c03-b91c-27e4b819f7dd,Vêtements,Always Vêtements,201.6,4,Google Pay,Île-de-France,Application mobile
+62f5032d-7f5d-4ef5-b7fe-1ce7ba6819c5,2024-07-08,23595355-229b-4aee-af57-d28b2bdd7ca4,Yoga,Do Yoga,143.17,4,Apple Pay,Hauts-de-France,Marketplace
+0022dfa8-0ec0-416e-8882-dfd7a4894257,2024-12-18,2fa7b05e-d989-4b2f-8b7e-82a3b53d32b3,Fitness,Fund Fitness,156.76,2,Carte bancaire,Bretagne,Site web
+fc17057f-b687-4441-ba97-362576363eee,2024-05-22,17018e0c-3034-49b3-aed8-4bcefaef2d93,Vêtements,Bill Vêtements,165.68,1,Google Pay,Occitanie,Application mobile
+50d5f65b-c62a-4207-bd3f-56c7271d68d9,2024-09-04,2ec7686c-071a-4995-afe1-95314783c155,Fitness,Gas Fitness,199.45,3,PayPal,Hauts-de-France,Marketplace
+1e32161f-fd0e-4f83-b8ca-4c3dd0913ac1,2024-11-19,4a540d07-ca8b-428c-b069-9ebb33f866d5,Fitness,South Fitness,112.9,3,PayPal,Occitanie,Marketplace
+91044b16-27b6-425d-8e06-ad9c3c1aebfa,2025-02-16,573aecde-341c-4d3d-81a3-3a282b023cb7,Accessoires,Practice Accessoires,220.69,1,Apple Pay,Bretagne,Marketplace
+81e9bdc2-9ae6-4dfc-b118-b202ad24260b,2024-04-26,a03426c1-eafb-4870-81d4-c11aba11dc98,Accessoires,These Accessoires,133.78,4,Carte bancaire,Hauts-de-France,Application mobile
+45bb14d9-ec70-4cde-901f-5dfd25be9fc4,2024-11-19,f23f7872-1d25-4fcf-a980-a961033c871f,Fitness,If Fitness,247.27,1,Google Pay,Grand Est,Site web
+caee5e0e-b40e-4da8-aadb-7d160fa8e872,2024-09-11,4935599c-fbf0-4f56-8abb-416dd74862e4,Accessoires,Ball Accessoires,111.62,4,PayPal,Île-de-France,Marketplace
+16928f26-6b67-4ea1-8eb2-918fb2a0475e,2024-08-08,ec42281d-f59e-439a-b68f-3b946568e0ee,Fitness,Into Fitness,17.65,2,Apple Pay,Grand Est,Application mobile
+b86a3656-f49c-48c4-8049-cec4bcd0870b,2024-12-30,30ffce0f-4067-4408-84d5-5547adac2f71,Cardio,Break Cardio,107.09,3,PayPal,Bretagne,Application mobile
+6ccdcae6-6f8c-4f66-a17d-275a5b83dd10,2024-10-13,b2a77d06-6951-420b-a869-87bc7a773673,Cardio,Movie Cardio,95.84,3,Carte bancaire,Hauts-de-France,Site web
+a67143b2-036a-4ab6-bcf5-104b21d2cc7b,2025-02-10,413b3aa5-5d92-46ca-91b7-18ab0f277312,Cardio,Find Cardio,21.76,2,Apple Pay,Hauts-de-France,Site web
+6a39c67b-16bb-4ec4-88d8-801a55d69d06,2024-08-05,8336c412-b6ae-44dc-8839-0af21fe464ac,Fitness,Such Fitness,213.62,2,PayPal,Occitanie,Application mobile
+8725ba7b-7dfb-473d-83fa-e2c8c4274adc,2024-05-31,d974a743-6476-447f-a7cf-392d557cf4da,Cardio,Ready Cardio,45.33,4,Carte bancaire,Occitanie,Marketplace
+a3a06334-97ea-417f-af32-82b52c8546c6,2025-03-17,b0cbea20-0000-4261-b7ed-dbf027b70dad,Accessoires,Skill Accessoires,248.58,1,Apple Pay,Bretagne,Site web
+9b4f3183-44ab-4037-8438-73e3c643dda6,2025-02-16,4963142d-986a-41c3-a1bd-8472663f4cb6,Yoga,Production Yoga,224.43,1,Google Pay,Grand Est,Marketplace
+d7652fde-19dc-4f67-9c2f-111e524e8e89,2024-05-20,77b45635-1933-4760-b8d6-6227521ff870,Vêtements,Mind Vêtements,54.82,4,Carte bancaire,Hauts-de-France,Application mobile
+a00b3ba0-2bd1-4a65-8a10-361af9df3f09,2025-01-11,bfc2d357-5192-457a-8da6-6befcd244a76,Accessoires,Child Accessoires,65.41,3,PayPal,Occitanie,Site web
+4deb5650-adc4-4ee6-b3f4-9c9a0c22ceed,2024-12-10,3a70c7fa-aa09-474f-986e-b69f60116160,Cardio,Everyone Cardio,161.11,1,PayPal,Île-de-France,Marketplace
+b339a00e-68dc-461b-a199-fb42fde25e5d,2024-06-29,1c4a7590-bacb-4731-a21c-7fc4d4644ebf,Cardio,Administration Cardio,45.4,1,Apple Pay,Grand Est,Application mobile
+9788a2d4-c6bc-4543-9cd4-f90ad8372b93,2024-05-06,48f6c341-1d26-41ce-a3c2-298a55fd2752,Fitness,Ahead Fitness,53.83,4,PayPal,Grand Est,Marketplace
+f9667355-fc09-49e8-83b1-c97e0f39a0d1,2024-06-13,feeac490-4cfb-40c9-ad74-fc9e80b23343,Vêtements,And Vêtements,32.83,2,PayPal,Hauts-de-France,Marketplace
+cd68993c-b7d2-4afc-985d-f7e3ab7f3e81,2025-03-16,b05dae2d-06a4-4696-8673-d8258e9bf501,Cardio,Conference Cardio,102.01,2,Carte bancaire,Occitanie,Application mobile
+f1518a11-7e4a-4dc3-a6fe-fc6dfe2431ec,2024-12-03,afdc6bf6-9959-421c-b22c-027cd31ec6d5,Accessoires,World Accessoires,20.75,4,Carte bancaire,Occitanie,Marketplace
+55c63170-eda8-4f06-859b-4cf4fd85770b,2025-04-05,f1dfc43b-55b6-4eb1-91da-f2d81edfff59,Cardio,Agent Cardio,101.89,2,PayPal,Occitanie,Marketplace
+53fa9b55-8aa6-45d4-b8a1-41bdc3200974,2024-06-30,d8cae12d-77ed-4be4-a3f8-510a982bc749,Cardio,Arm Cardio,209.72,4,Google Pay,Grand Est,Application mobile
+2ab9e0b7-c5c3-48cc-a88d-634cfb11e9b6,2024-10-18,bd2e5360-2181-4562-9ad9-5a049b159fc7,Accessoires,Market Accessoires,194.44,2,PayPal,Hauts-de-France,Marketplace
+e93014db-1713-4bc5-85a4-c76f08345aa9,2024-10-15,91bbc890-322d-4940-aba8-70d1d4bd27da,Accessoires,Rock Accessoires,176.65,1,Google Pay,Île-de-France,Application mobile
+9fc5b51b-b95d-4594-950b-3dd98d6f903b,2025-04-02,ae28446c-203d-45da-ae59-514104c25be5,Accessoires,For Accessoires,105.19,2,Apple Pay,Grand Est,Application mobile
+7fd152fd-dd09-4b81-99b3-1709906b6004,2024-07-31,d847903b-1b1f-4688-8374-dcabc75ec755,Yoga,Movie Yoga,121.72,1,Google Pay,Bretagne,Site web
+e4ee4cb5-826a-43c2-817c-927241e4e863,2024-06-05,11c383a8-f987-4e75-8e94-ccdcf9c21497,Yoga,Many Yoga,32.71,4,Carte bancaire,Occitanie,Site web
+d7eede6d-5e3a-4e79-9466-e5f4c5f2133f,2024-05-24,6b2ea841-db5a-4e21-8926-f0b715990874,Cardio,None Cardio,227.75,1,Apple Pay,Hauts-de-France,Application mobile
+e796a162-3764-4dbb-91a7-63154ff597d2,2024-12-04,37b9e64a-de59-4fa0-897c-b1cc88c99230,Fitness,Politics Fitness,40.55,2,PayPal,Bretagne,Marketplace
+80690023-596e-43b6-ba88-9d35b2494a37,2024-06-04,5072f3bb-1224-40ba-a00a-b5efde65b3fa,Vêtements,Draw Vêtements,199.68,1,Apple Pay,Île-de-France,Site web
+b36631bc-b293-4a86-8006-1c93d7ab5aef,2025-03-31,887dc480-29c8-4d3d-85f7-12d1620bf7e3,Vêtements,Different Vêtements,249.25,2,Carte bancaire,Grand Est,Site web
+6036de41-837f-45fd-8c44-a04954c72f39,2025-01-12,478e7df1-95c1-4589-8cb6-f033c000d80f,Fitness,That Fitness,117.39,3,Apple Pay,Bretagne,Application mobile
+5a8719a3-ea2f-41a5-bdaa-7ca9467c038f,2025-04-03,668726c9-8047-46cd-bc38-80fc68d0ca32,Fitness,Amount Fitness,71.13,3,Carte bancaire,Grand Est,Site web
+b00c91c6-0f97-4e03-ad10-20a1ec928cdd,2024-06-16,979c976b-1c2e-4247-8a7b-5ecc9fcdfea0,Cardio,One Cardio,176.08,2,Google Pay,Bretagne,Application mobile
+4a2f4c5c-44dd-4a38-b740-308c0e658238,2024-05-26,32212932-edc7-418c-ab98-9db1d1748707,Vêtements,Magazine Vêtements,223.28,3,Google Pay,Île-de-France,Site web
+e0a0fc7c-654e-4efb-9a16-7907d1019205,2024-08-03,9e309ebb-2be5-4521-822b-17aaaefbcf19,Fitness,Task Fitness,34.97,4,Google Pay,Occitanie,Application mobile
+75353c50-31a4-4000-b311-922c1b15fe1f,2024-06-30,bda4fe33-575a-45a2-896c-ebb38c9b15a9,Accessoires,Early Accessoires,164.23,1,Apple Pay,Île-de-France,Application mobile
+0c1db944-700c-4ad0-92c5-ec6ef5ccf447,2024-05-08,38ec65f5-c363-4455-9818-24d3d5cd5cc7,Yoga,Finally Yoga,214.04,2,Apple Pay,Bretagne,Marketplace
+0ce14eee-77de-44e2-9210-1a0a90886278,2024-11-09,b6fea2ab-c2f2-4b5f-a598-cbdf86dc46db,Accessoires,Pick Accessoires,59.77,4,PayPal,Hauts-de-France,Marketplace
+9891e735-10be-4e95-846f-e3262cf1f997,2024-05-04,b61f6f8e-b6d1-45f4-ae18-7efd8c2bc51b,Yoga,Side Yoga,109.55,4,Carte bancaire,Île-de-France,Application mobile
+44b4d856-c35c-466b-914c-1ecec1c1aa98,2024-11-27,bf352dd6-9d13-4f85-8c10-04473abff95f,Yoga,Those Yoga,102.07,2,Apple Pay,Bretagne,Marketplace
+927a4d41-fc25-4b2f-8185-578ef84afba0,2025-01-07,2f37bde4-ff53-4347-af93-6b884d49274f,Accessoires,People Accessoires,180.45,3,PayPal,Occitanie,Site web
+e459f24d-c9ae-4a74-b8ba-629e83c160b9,2024-09-17,ad0dd747-b7d6-4cb4-aab5-157dd5f1f35d,Cardio,Section Cardio,128.58,2,Carte bancaire,Grand Est,Site web
+e8d51bef-6574-45f0-89f3-72be452bcca9,2024-12-18,3b5b9a91-b2f6-4edf-8175-33be52f31438,Vêtements,Off Vêtements,61.06,4,Carte bancaire,Île-de-France,Application mobile
+16b615bf-bd6d-4f6a-85d0-134f16b090d4,2024-11-03,e7ab1c64-8cc3-4fc4-8280-4d0da2f90410,Fitness,Skill Fitness,87.37,4,Carte bancaire,Hauts-de-France,Site web
+6bf271e0-817c-440d-a237-514710933ef3,2024-06-29,db188ed3-4b04-461a-b405-c6069532da09,Accessoires,Garden Accessoires,167.27,2,Apple Pay,Bretagne,Site web
+2d2a6c2a-af4d-4eb7-9c2b-d64510e2eba7,2024-06-15,24d8f87c-44a8-464e-ae40-4262015ca7f7,Yoga,Office Yoga,201.71,3,Apple Pay,Occitanie,Site web
+34859574-3d04-4509-9201-452676acd2f8,2025-04-02,2f660a46-b751-4a66-aef3-023bbfaf05cd,Accessoires,Positive Accessoires,22.03,4,Apple Pay,Île-de-France,Marketplace
+3aceda8f-365f-41a7-b05e-f496a4d58936,2025-03-04,0281162e-9827-4361-9b1f-3f830bf8f9ad,Accessoires,Herself Accessoires,175.39,1,PayPal,Île-de-France,Site web
+d6a5a337-63b3-4f25-b242-95bfe0e7e452,2025-01-14,f91565e5-8047-4df5-a395-0a43e708c73f,Yoga,Vote Yoga,104.87,3,PayPal,Occitanie,Site web
+0254a7f0-0f93-4dfe-b8f4-413249272288,2024-05-26,45dfc573-97be-4645-9cb2-0d4c75b88282,Yoga,Leg Yoga,86.14,2,Google Pay,Bretagne,Site web
+94359c4b-b5c6-4343-992d-288f1f07e09c,2024-04-26,23f20449-e84b-428d-97d0-45bae89f5dda,Fitness,Close Fitness,154.61,3,Apple Pay,Grand Est,Marketplace
+b9b2e4a1-dfd1-4af0-9eae-c8ca44e12bae,2024-09-03,582ecb09-8347-4606-b78f-fc8195aa61fb,Accessoires,Avoid Accessoires,248.99,1,PayPal,Grand Est,Application mobile
+79aaa2a4-9679-406b-a28c-e48b9f6f5383,2024-08-25,d811b111-ca9c-4696-aee1-ab725f9541bb,Accessoires,Form Accessoires,159.03,1,Apple Pay,Bretagne,Site web
+cded6e33-f200-4f33-a66d-13317fb6e0d2,2024-08-26,22ab56b7-7c54-4e64-b6d8-f4580edbce0a,Yoga,Bad Yoga,105.86,4,Google Pay,Grand Est,Marketplace
+a7fd26af-8462-40c7-8ebf-81a2f344be38,2025-01-30,1d13b13f-4d57-4ef8-97cb-ecd294579ceb,Cardio,Inside Cardio,108.25,4,Google Pay,Occitanie,Site web
+c6559d81-46be-4099-abc9-2d33b63cee9f,2024-10-06,3168aae4-15ae-41ee-87e1-439664faa462,Accessoires,Save Accessoires,128.02,1,Apple Pay,Hauts-de-France,Site web
+7ed4c32b-5793-4636-b932-06f2feafb070,2024-05-14,bf5d88af-0198-4087-b8e2-4affee39e8ae,Yoga,Center Yoga,247.62,3,PayPal,Île-de-France,Marketplace
+d2cf2262-0268-4735-a18a-fdbc8b68c1ad,2024-07-06,154d0783-d292-4197-844f-09b52bca2b18,Fitness,Reflect Fitness,24.82,2,Apple Pay,Île-de-France,Marketplace
+635c639b-13b5-45ec-bc0c-d236cfc1518b,2024-10-08,bd1e0297-8df3-4218-9863-0037220ed84a,Vêtements,Game Vêtements,183.34,3,Carte bancaire,Grand Est,Site web
+30b75f0a-9699-4e0f-b944-e99ec141641a,2025-01-27,89eee460-04b1-4cbc-a2db-6ac39443f956,Vêtements,President Vêtements,63.88,3,Apple Pay,Hauts-de-France,Site web
+99d761fd-bd0f-48a9-a228-0f1ab3705377,2025-02-01,14e8aaaf-d332-4867-81b9-0d7c906ec5e2,Cardio,Nature Cardio,44.6,3,PayPal,Grand Est,Marketplace
+aaca690d-5bd4-474e-8814-282e97456172,2024-09-29,a1a965d8-9bdc-4cff-af75-7cf48e9a31ff,Yoga,None Yoga,170.73,2,Apple Pay,Hauts-de-France,Application mobile
+74e58ae0-18a6-41fe-bf08-d1d7836ebf8f,2024-04-13,926d0ed1-0055-40fe-9648-cd9eb163df8c,Fitness,Growth Fitness,235.24,2,Apple Pay,Île-de-France,Application mobile
+6da2cb5a-aecb-4f43-a92a-6ec22b6b4952,2025-02-13,67990eed-3015-446a-b01c-65a6b063d36f,Accessoires,Project Accessoires,94.63,4,Carte bancaire,Île-de-France,Marketplace
+c2c7b5f5-9da0-42da-92cd-e3ad2b01eb14,2024-10-08,c46005d0-0b59-4e7d-bdc0-7b539bab935c,Cardio,Wide Cardio,69.45,4,Apple Pay,Grand Est,Application mobile
+16d10f12-faa9-4340-a5c8-e8f4e756b8c2,2024-06-15,264b8f44-8f5d-4a6a-8468-6be7517f3e50,Fitness,Democratic Fitness,245.6,2,PayPal,Bretagne,Application mobile
+6494add6-e53e-47cf-a31d-106f49ed0cbe,2024-11-26,a8c0ec95-da82-4a6e-8763-6043251cddd8,Accessoires,Professor Accessoires,200.52,2,Carte bancaire,Grand Est,Site web
+4c121834-2e2f-4bf1-a8fc-eac9a1e3a7a1,2025-02-23,909d7d35-11a0-4c70-a581-19384a828199,Yoga,Knowledge Yoga,159.81,4,Carte bancaire,Île-de-France,Site web
+073d8493-ad42-4595-b9bb-53b3c3a693bb,2024-11-17,9c192cd8-c1f4-4803-9ce9-0e60d3034f8d,Cardio,Card Cardio,200.49,1,PayPal,Île-de-France,Application mobile
+595ddf2f-ec42-4d65-b38c-866e6df23c90,2024-06-16,b3cbea42-4335-4dde-be13-72f4f71082ea,Cardio,Lawyer Cardio,180.59,3,Google Pay,Île-de-France,Site web
+a436fb57-3916-4e84-95ad-4ed8b34d9b04,2024-06-15,61aeccec-3ad5-4572-b995-1ee3500a456b,Yoga,Nearly Yoga,176.51,1,Carte bancaire,Occitanie,Application mobile
+a5b0c594-67dc-47e2-bf3d-a991c2e23bf6,2024-08-12,1b6662ae-f2da-4509-ba6c-cf101afa4b71,Accessoires,Chair Accessoires,75.91,3,Apple Pay,Occitanie,Marketplace
+8c0956ba-7de4-47ec-b069-50230d6bddbf,2024-11-18,96560be5-73ea-4acc-a6ec-41b3e109b8fc,Yoga,Marriage Yoga,157.67,4,Apple Pay,Occitanie,Site web
+79e1c578-448d-4bbe-b2c4-b9bde4844c1e,2024-07-28,2d1f47a0-0b30-4b28-aca2-eb730e52bd19,Fitness,Per Fitness,165.53,4,Google Pay,Grand Est,Site web
+24be8294-926b-4dcd-921c-626cc0daffa7,2025-01-13,446ac823-0880-4e85-8c73-688cce6b9429,Vêtements,Enter Vêtements,223.89,4,Google Pay,Île-de-France,Marketplace
+94263290-680e-4fd3-b49d-d747224f6f12,2024-07-29,f62d6cf7-5aab-42c4-9554-9dbac9fb95fe,Accessoires,Choice Accessoires,241.58,3,Google Pay,Hauts-de-France,Marketplace
+5c7aacd2-83c3-4e18-96c1-bb5cedfa127e,2024-04-16,e45947a0-0db3-41dd-8fab-1a14bf2969e3,Fitness,Car Fitness,37.99,4,Apple Pay,Grand Est,Application mobile
+5f90f0d2-757e-4ccc-a423-022b8c1cc304,2024-07-28,257ffb78-b084-407b-939f-7fbdb7e6f26b,Yoga,Road Yoga,168.15,3,Google Pay,Île-de-France,Marketplace
+eb288004-c879-48e3-ae4c-0f31ca36f480,2024-04-15,7d12519e-8f39-45b6-80d3-b9417a0ca6e3,Accessoires,Whatever Accessoires,82.01,1,Apple Pay,Grand Est,Marketplace
+3fbdf44c-e31d-4b6a-afe8-02bcfac97b59,2025-01-13,9ec33828-168c-4cce-be05-28d504afd490,Accessoires,Same Accessoires,24.6,2,Carte bancaire,Occitanie,Site web
+a49a44b1-0502-435f-8c2e-ceab7bd4f647,2024-09-06,b9019775-d844-499d-9312-9e55eceae64f,Vêtements,Relate Vêtements,101.46,2,Google Pay,Grand Est,Site web
+84181bef-9e2d-4b2f-81a5-e07be10aa2eb,2024-12-07,6f2b7e7c-8fe4-4e61-aa60-64e133863e9a,Accessoires,Street Accessoires,65.94,4,Apple Pay,Occitanie,Marketplace
+2da822b5-04c3-4854-9f59-95c8868c89c8,2025-03-02,464dbbb8-fe6a-4b07-904d-4577218c7bdf,Yoga,About Yoga,103.16,4,PayPal,Bretagne,Application mobile
+82680f71-6202-4b4f-a2f9-2ad0fde860c7,2024-07-09,4ea304a3-4f78-4287-a2c7-9076cd413fae,Cardio,Win Cardio,238.03,3,PayPal,Occitanie,Marketplace
+6c393fc3-721d-49c1-b388-e2cb70c99642,2024-08-09,7f65dcf9-6734-48b3-a644-f59d0d7c57f4,Vêtements,Generation Vêtements,149.39,3,PayPal,Bretagne,Application mobile
+9d1c2abc-637d-4d31-82f3-64778db3310c,2024-09-14,2ebcd063-1edd-4543-b39e-675030ae0ed4,Vêtements,Southern Vêtements,244.23,1,Carte bancaire,Bretagne,Application mobile
+a75dc6df-c0a1-4886-b5e6-992fddfe7bb5,2024-09-21,6f24c629-ab4b-471b-af4c-ab77cdc16ff5,Vêtements,These Vêtements,149.75,1,PayPal,Grand Est,Application mobile
+c02b06f1-4725-43b8-98a0-552bbf6a17a1,2025-01-03,b342baa0-e0f8-4379-8f04-03cbe420d1fe,Fitness,Sometimes Fitness,197.4,1,Carte bancaire,Grand Est,Application mobile
+9e3d95c6-1106-4ff5-a6b8-0820775e8c41,2024-06-05,bb521cf5-9117-4b61-9e6d-26c710799f7e,Fitness,Week Fitness,143.3,3,Carte bancaire,Hauts-de-France,Application mobile
+933c37c4-0264-498e-a610-af790a5bc9fb,2024-12-15,4b8395d2-7798-498d-875b-8887e9d6e130,Cardio,Somebody Cardio,82.64,2,Carte bancaire,Grand Est,Application mobile
+afd967fe-da84-4ef8-8c45-0589e0df9bd4,2025-02-05,e9fe73fb-136b-4744-9332-4b70a8436c5d,Vêtements,Analysis Vêtements,80.8,4,PayPal,Île-de-France,Marketplace
+88a58e21-16a4-4316-bf6f-409b5cbe9301,2025-02-20,dfc43e6c-19a3-4d19-994e-e43f11a4abe2,Accessoires,Board Accessoires,150.35,2,Carte bancaire,Hauts-de-France,Marketplace
+9ab2a529-8431-4a0c-9bd3-ef17a765cb66,2025-02-19,6a7132ab-561b-4efd-b7bb-156e0a260756,Cardio,Small Cardio,69.48,3,Google Pay,Hauts-de-France,Marketplace
+8a6b31aa-4be2-4baa-9c2c-b33f80e4cfc7,2024-04-21,37da9f4a-ba84-4ba2-a211-d12d5f4c0f82,Accessoires,Debate Accessoires,38.32,2,Carte bancaire,Occitanie,Application mobile
+65823563-95b9-434c-bd01-66b09d85e9bf,2024-12-24,9eb3b61c-4dae-457d-a749-7c9ea8036d32,Yoga,Woman Yoga,105.16,2,Apple Pay,Bretagne,Application mobile
+7fd1d874-a1fa-4f58-8870-591f2b999995,2024-11-12,02cf87c2-0e5d-4ece-b808-a243d6ab981c,Cardio,Policy Cardio,139.05,3,PayPal,Hauts-de-France,Application mobile
+7d837251-874c-4695-9e63-e1553b3e1b8e,2025-01-19,a07baf2a-b576-4092-9ff9-e9dd9ad088b2,Cardio,Surface Cardio,229.23,1,Apple Pay,Bretagne,Site web
+71393cd0-8bbf-4438-a92a-d8141bcd37b9,2024-08-11,cb877880-6754-41e5-983b-1a71e84cc9e9,Fitness,Offer Fitness,115.58,2,PayPal,Occitanie,Marketplace
+47d1a8b5-91ac-4497-b0a5-5f8d12a3c3e1,2025-03-18,d243b291-78a1-4e23-a3bd-4fa036b86581,Accessoires,Message Accessoires,106.7,1,Carte bancaire,Grand Est,Marketplace
+d1940b9a-f31a-4e8e-bd41-f4a92557d04d,2024-09-26,73b155b7-371d-43d4-8e39-f56517e47034,Yoga,Show Yoga,85.22,2,PayPal,Bretagne,Marketplace
+78211a97-d6fe-4899-9b3c-a79cb1556a61,2024-08-30,429feb63-6530-4951-96ab-b93a69f0008f,Vêtements,Role Vêtements,29.13,1,Carte bancaire,Île-de-France,Marketplace
+25090e5d-ae2f-4d36-b343-d7d2995d8cd9,2024-12-04,c3bc98f5-fd6d-4bcf-82e6-60898faef271,Yoga,Along Yoga,217.67,3,PayPal,Occitanie,Marketplace
+c0c66df5-14cf-4f39-9145-403641481080,2024-11-14,bbc27f31-4c3f-4a5e-81ba-2c3678f15e7b,Fitness,Image Fitness,63.9,1,Apple Pay,Grand Est,Application mobile
+56d2ec65-70c8-4199-bfc1-8ed2036acef7,2025-01-05,de46a4a8-d20e-4a07-b38c-6f51dbb45e1e,Fitness,Prevent Fitness,177.98,4,Carte bancaire,Grand Est,Marketplace
+a2f0966b-75a0-4dfc-a504-df9a6e7f85ca,2024-10-12,421c09a5-6737-4c9b-9979-73620ae5b57a,Fitness,In Fitness,162.19,3,Apple Pay,Bretagne,Site web
+1ed105eb-4c4c-4e19-baee-9221f4feb11a,2024-10-31,707b1e02-1d0e-4826-8367-18f69400fb0b,Cardio,Pretty Cardio,223.45,2,Google Pay,Grand Est,Application mobile
+826798e6-c57d-494b-a07a-bd9f28106445,2024-12-14,e4c2564b-4a3c-4df2-a80d-29be18eb9c3d,Vêtements,Major Vêtements,146.3,2,PayPal,Occitanie,Site web
+80d7d242-05fa-4985-9e95-1081b2e612f5,2025-01-01,b0976804-b108-40c6-b9d4-f2d37a4d18e9,Accessoires,Matter Accessoires,241.6,4,PayPal,Occitanie,Marketplace
+9e725cbf-a82d-4307-be75-f7eb511426f7,2025-03-12,ff580cfe-27e4-4300-ba6f-68d55543359a,Vêtements,Fear Vêtements,235.12,1,Carte bancaire,Grand Est,Application mobile
+46c985e2-040c-479b-a1db-b363c7edb3bc,2025-03-09,8927a3c5-42b5-495a-82e9-d81d8a27e2ec,Yoga,Their Yoga,234.53,3,Google Pay,Hauts-de-France,Marketplace
+51c160ef-7ab4-4eca-87af-6d6db850c083,2024-10-14,9efaa301-a715-4883-8938-6504def82d26,Vêtements,Build Vêtements,238.86,2,PayPal,Occitanie,Application mobile
+46a4a60a-24fd-4138-b450-2caa8cde4258,2024-06-10,01cefdc6-108a-455f-a21d-fde332fe69b0,Vêtements,Necessary Vêtements,28.68,4,Google Pay,Grand Est,Marketplace
+5f182e00-7794-4f01-8e9d-1cea67ce7682,2024-09-28,e5b8536e-3451-4422-8696-80bf1b22aadb,Accessoires,Itself Accessoires,76.73,2,Apple Pay,Île-de-France,Marketplace
+6df7fadd-855a-4a09-9eaa-a0c9f5119592,2024-12-20,3b321c6b-faaa-47f2-a2e9-45098c550466,Fitness,Water Fitness,191.4,3,PayPal,Île-de-France,Marketplace
+d28539a8-6f14-4beb-a066-33f0ed0113b2,2025-03-14,4b4cf744-503f-4348-a601-a626bb853ea9,Yoga,Tree Yoga,108.82,4,Apple Pay,Bretagne,Site web
+03b69e5e-4442-4c45-8178-0ee174698fd4,2024-04-19,d881fb44-f3dc-4b6b-8fbf-5c77412a9248,Fitness,Go Fitness,149.85,4,Carte bancaire,Bretagne,Application mobile
+06dc2f5f-de7c-4c81-8874-da74d5f3ce61,2025-03-24,516359d4-800c-4af9-9b1f-8d026c967953,Yoga,Society Yoga,145.4,3,Apple Pay,Bretagne,Application mobile
+edad035d-a2d6-4211-ac65-6f4c81e10e7e,2024-09-12,20d6be83-5cc2-42b5-9403-f653b91ecaca,Yoga,Customer Yoga,122.39,2,Carte bancaire,Hauts-de-France,Site web
+9dda6c33-2458-4bb3-b0a6-651d6b15cc71,2024-08-02,b75132e7-c237-4c21-a7d4-cbeaa5157414,Accessoires,Physical Accessoires,18.33,2,PayPal,Île-de-France,Site web
+f57371b6-9b9f-472c-9464-488298634d53,2025-02-12,d228ba79-3d97-419d-81b0-44afa5825fa2,Yoga,Voice Yoga,158.39,3,Carte bancaire,Grand Est,Application mobile
+ee65f009-d0c2-4673-85bb-d995360a6315,2025-01-23,b177905a-c5a6-433a-b963-61b658e66113,Cardio,Different Cardio,209.95,1,Apple Pay,Bretagne,Site web
+b781dcf4-2a06-409c-9cb3-8b4b76a3324a,2024-07-27,39750c51-191c-4c9b-a23a-2535e1d4bd59,Vêtements,Window Vêtements,202.87,2,Apple Pay,Bretagne,Site web
+05946a98-4692-4eed-9761-4d4270977b62,2025-02-12,433318c9-c86c-457b-945d-5ec5c61e1131,Cardio,Nation Cardio,21.89,4,PayPal,Île-de-France,Site web
+f5a87823-1a18-421b-a119-5e8fa52c5ebc,2024-05-25,48d5ff1c-59fe-46bb-b786-68f87addd593,Accessoires,Everything Accessoires,144.16,1,Google Pay,Île-de-France,Marketplace
+4f4500b2-6711-48f5-b03b-19c282b19430,2025-02-01,ee0b2494-8ee2-4c67-84b9-1dfbbfa08775,Accessoires,Fish Accessoires,18.03,4,Apple Pay,Hauts-de-France,Marketplace
+ad4ec824-e43c-4e52-94c3-ec9fd45ad488,2025-04-06,f1da7e44-50e6-4952-9240-dde67e3374a1,Fitness,Sport Fitness,122.86,3,Google Pay,Hauts-de-France,Site web
+96578f13-770e-4923-a67a-84b9091c7865,2025-02-25,640271ae-e4d2-4e22-a7a6-0dc250f8f942,Accessoires,Treatment Accessoires,238.58,2,Apple Pay,Occitanie,Application mobile
+64971952-3cc7-4c8c-b3f8-b85cf8e6a9c4,2025-01-27,04d392ee-3e42-47e1-b3e6-e875e4c33305,Accessoires,Leader Accessoires,92.42,3,Apple Pay,Grand Est,Application mobile
+b86b4751-a1e8-4844-a8c5-1df91ad2e9fb,2025-03-25,b181655c-c523-4af2-8cc1-ef68913ee58d,Fitness,Around Fitness,80.8,3,Google Pay,Île-de-France,Site web
+eb851e69-8abb-4093-8474-a7e56d2f0560,2025-01-10,9fa75eef-981b-4ead-bb6e-d03e363c085e,Vêtements,Mind Vêtements,199.71,3,Apple Pay,Île-de-France,Application mobile
+82cf1790-037b-4c35-8e61-ce810877d44a,2024-12-26,202f4932-845c-4953-af8a-ac22e9b60ffd,Vêtements,Capital Vêtements,36.91,3,Google Pay,Île-de-France,Marketplace
+3431f17c-6c20-43b8-8e6f-5a243c37ec99,2024-05-04,5deca83e-c799-48c3-9fbe-cb9f67d0e518,Fitness,Trial Fitness,193.59,1,Google Pay,Bretagne,Marketplace
+7821f407-75bc-48bb-91c5-b85ca3356d15,2024-11-12,365c8fbe-65ea-43ca-8b09-d92d6c005a88,Vêtements,Station Vêtements,120.84,1,PayPal,Occitanie,Marketplace
+d684bee5-349f-457e-bac9-84b4e97657e2,2024-10-04,74f56396-15f8-4223-af25-9716dba63812,Vêtements,Music Vêtements,78.03,2,Apple Pay,Île-de-France,Marketplace
+9a63d015-c905-48ee-b279-fdfe2bb85777,2025-02-24,9b49d750-9556-4832-8092-7878648bc66f,Accessoires,Garden Accessoires,174.39,1,PayPal,Grand Est,Application mobile
+c15330ae-52ea-407e-9fbc-1f515680e7b5,2024-10-11,4b59863d-b841-46cb-af1f-ac9bf4fb23b0,Cardio,Environment Cardio,64.19,4,Carte bancaire,Grand Est,Marketplace
+d8e6a6c5-d3a2-4131-9587-0282d75bcef1,2025-02-03,346e003b-3962-4ace-a83f-588bd980a49b,Fitness,Could Fitness,141.91,2,Carte bancaire,Grand Est,Site web
+69f82c5e-bdde-4587-a864-167fc1326f88,2024-11-13,0807783e-a144-43e1-b046-028c0e01a585,Fitness,Energy Fitness,199.7,4,Carte bancaire,Hauts-de-France,Application mobile
+5ce47f45-04fe-47dc-bfb4-3e68f11b47eb,2024-05-17,2f8d6602-f29f-46c3-81d9-46f879e8f648,Accessoires,Change Accessoires,175.34,1,Carte bancaire,Grand Est,Marketplace
+6ec0f9d8-2a8a-443c-8ab5-5768fb2b62a7,2024-07-26,0ec4bab8-db2b-448c-ba57-eff9e4e2b016,Vêtements,Control Vêtements,164.24,2,Google Pay,Grand Est,Application mobile
+52720625-3b4a-4132-bca5-4addc86266c9,2025-01-01,919eddaf-5dba-4041-b921-97ee10b1a177,Vêtements,Apply Vêtements,216.71,3,Apple Pay,Occitanie,Marketplace
+fa52a7ce-f1d3-40c1-879e-daabd2c91faf,2025-03-05,c358d60d-b695-485e-8348-d297e2191930,Vêtements,Laugh Vêtements,242.13,4,Carte bancaire,Hauts-de-France,Application mobile
+86193cf1-e728-4148-80c7-9040b45ec7bf,2024-10-03,cf9d63f1-93e5-4718-8593-0dd7659f264e,Fitness,Current Fitness,85.82,1,PayPal,Île-de-France,Site web
+660f05e5-9ce3-4862-b65f-9ac03b407212,2024-08-19,94bcafca-2ba7-42fa-ada3-cdfc630c4341,Vêtements,Recently Vêtements,198.84,4,Carte bancaire,Île-de-France,Application mobile
+4ab4348a-644e-453f-bdf0-2e36d6536932,2024-12-02,66e3f7fe-9b75-4a59-8ad4-f721b972fe17,Cardio,Success Cardio,190.05,4,Carte bancaire,Occitanie,Site web
+17c45f32-401d-4563-a748-4651994c7d89,2024-05-14,d0c07c2a-739d-40b0-9aae-eda49793410d,Yoga,Think Yoga,231.68,4,Carte bancaire,Bretagne,Application mobile
+afe7bc3b-5dd7-45b0-9fe8-4ff879f7b017,2025-01-25,ad71215f-7c56-43e8-a4db-79b74d32db5a,Yoga,Day Yoga,42.7,3,Google Pay,Hauts-de-France,Site web
+8c58e076-0fce-4052-a06f-53f10b5b7e59,2025-01-30,d26d9d28-bfd2-49e4-bc99-adcfc1a48a2d,Cardio,Within Cardio,141.33,2,Google Pay,Île-de-France,Marketplace
+25351b24-2edc-4545-8e38-ad74becf5e26,2025-04-04,572a0c0b-c2dd-4d84-b7aa-380ee76512b9,Cardio,Least Cardio,86.97,1,Apple Pay,Occitanie,Application mobile
+538dda0e-9657-4603-98f1-b37134d033ba,2024-09-13,4d208f7b-5299-498e-be94-4781e7c851d9,Accessoires,New Accessoires,243.73,3,Google Pay,Île-de-France,Marketplace
+0d54ae94-c65f-4936-96f7-5f52d82d8a72,2024-08-24,643a61f9-0f3b-4f4e-abc5-8299a77fa2e2,Accessoires,Walk Accessoires,134.71,4,Carte bancaire,Bretagne,Application mobile
+65fceb6e-5b98-46b2-90cc-71f33e6e28ee,2024-08-13,4fe66741-fb28-4939-a876-9164750d31de,Yoga,Send Yoga,182.07,1,Google Pay,Bretagne,Site web
+05bb8ba3-6e90-4345-9860-13a501939ba0,2024-05-23,4a18703d-a316-46df-9019-071cd4910efc,Cardio,Watch Cardio,116.38,4,Apple Pay,Bretagne,Site web
+cb53a8dc-5c65-4394-b2a9-77a559eacef9,2024-07-31,50a0b607-d527-4758-a1fe-3ef1f4a6c96f,Cardio,Record Cardio,59.93,4,Google Pay,Île-de-France,Application mobile
+3e49d635-4c13-47bd-91e3-54a58141f5f6,2024-09-30,71cd3539-c5dd-41f7-9f70-ed24621af0ec,Yoga,Business Yoga,82.64,2,Google Pay,Grand Est,Marketplace
+79737154-eacc-40d2-9f16-d403013b0edc,2024-05-11,d638f238-3306-4520-9b82-b70b1e672920,Accessoires,Series Accessoires,172.57,3,Google Pay,Île-de-France,Marketplace
+142094ba-2ee3-4a24-b1a9-0b24c600ff83,2025-03-15,c2dfdfeb-a8ea-4632-b809-8cbffc0a88e0,Yoga,Performance Yoga,51.04,1,Google Pay,Île-de-France,Application mobile
+94a1576a-8dfd-4942-997f-c60b67aca696,2024-06-15,e16f8f1d-8c17-4eb5-93e4-d6df6cc8ffca,Vêtements,Ahead Vêtements,228.19,3,Carte bancaire,Occitanie,Marketplace
+0c1e4d34-a021-4fb9-a120-a07bbe639ebf,2024-10-05,c9805e50-6e2b-4f8a-bf83-f0fa1c2fe162,Fitness,Or Fitness,177.33,4,PayPal,Île-de-France,Site web
+2f106662-7f60-45e5-a75f-27fcdab9b939,2024-08-26,532585df-2e96-4c79-9953-5b03d595e04f,Cardio,City Cardio,207.99,3,PayPal,Hauts-de-France,Marketplace
+386bac12-c0a0-4603-ba28-46baa61b2593,2025-01-25,683b4e07-821b-4405-a775-c88471e353bb,Fitness,Reason Fitness,68.49,3,Apple Pay,Bretagne,Marketplace
+a88de31a-41b0-4ca9-9a21-fd5076ccd3b1,2025-01-12,ad1c75b4-114d-425f-b76f-82036a6c43dc,Accessoires,Drug Accessoires,58.54,3,PayPal,Occitanie,Site web
+994edf58-5970-4046-ab5e-21b1197fac60,2025-01-01,fa8e1da1-bb97-4b16-baa9-a833375b0ef5,Yoga,Red Yoga,71.66,1,PayPal,Occitanie,Marketplace
+155f3a46-8a34-4d5b-8de1-a156444bb93a,2025-01-08,a7f4b08c-b63d-4989-82b1-dae0b27b8fa9,Fitness,Mrs Fitness,164.0,3,Google Pay,Bretagne,Marketplace
+52a6dd49-1ef5-44e3-bd76-01552f90ed48,2024-10-16,3ae66bd2-0866-4a80-869a-3c6b807521b3,Yoga,Race Yoga,168.36,1,Carte bancaire,Île-de-France,Application mobile
+47dc61f9-07a3-4feb-88f2-6c857e12a828,2025-01-26,817c8ad9-9bd3-4fe1-bf7d-fb0dba57adaf,Accessoires,Nearly Accessoires,244.22,1,Carte bancaire,Occitanie,Application mobile
+0ab8a897-c8e6-40df-b171-8be23ab4d71a,2024-07-25,1d953a11-e9ae-4c0a-af6d-6daa10f5898e,Cardio,Fund Cardio,200.41,3,Apple Pay,Occitanie,Application mobile
+499f9c8c-a7bf-41ac-9943-3d50de87582e,2025-02-22,d73261ef-174c-4ca2-91bb-072a0a5237e6,Cardio,Left Cardio,119.03,3,Carte bancaire,Bretagne,Site web
+ea08b1c5-3049-4d02-9bbf-8d719facdb84,2025-04-04,b1e72088-c1f9-4282-97d4-570192e7aefa,Vêtements,Stay Vêtements,129.49,2,Apple Pay,Bretagne,Application mobile
+862cb0fa-7572-4fe2-9215-baeaee23752f,2024-10-21,fe92f31c-37e8-4152-b56d-c34e34b5e7d8,Cardio,Decision Cardio,157.44,4,PayPal,Grand Est,Marketplace
+73d28d7b-9bcf-4f8f-8897-dd8e75f87f07,2025-02-20,54e7ff16-18e4-41ff-9bbe-1094c4eff52f,Vêtements,Either Vêtements,223.98,3,Google Pay,Île-de-France,Site web
+addf3fc7-3f87-4425-9b18-f6764f2dc6cc,2025-01-15,18cad12b-ed43-4a6f-aef7-d0a0e6d734da,Yoga,Down Yoga,206.1,2,Google Pay,Grand Est,Site web
+9350892f-d18c-44ea-b1ad-ce80fdeb35d5,2024-10-13,34787f69-ee3c-4843-afe9-c4a6f3683e29,Accessoires,Light Accessoires,141.26,3,Apple Pay,Occitanie,Application mobile
+c14fca95-4f6c-4400-9ca8-4757f86e1fc4,2024-08-11,cbf346b1-e3e8-4b34-9393-d193d859b2d1,Cardio,Not Cardio,127.08,3,Google Pay,Île-de-France,Application mobile
+63ec4477-45d2-41cd-8192-99e77b753fc8,2024-09-14,d5badd9d-bdc9-47da-b327-b06f06349644,Accessoires,Address Accessoires,105.89,4,PayPal,Occitanie,Application mobile
+51e83ee0-1ab3-4ea9-85b8-888588ddadaa,2024-11-12,bafc3b07-c5c0-414f-951d-8159c1d5be9f,Accessoires,Them Accessoires,55.28,1,Carte bancaire,Hauts-de-France,Application mobile
+0f1a6033-ce79-4f29-bcbf-bf367b53cd6c,2025-01-25,b9d58b4c-9934-4af7-ae7f-5d6422ba7759,Vêtements,Agree Vêtements,52.59,1,Carte bancaire,Bretagne,Application mobile
+17f2fb09-f55d-4bc4-9c60-504b14ec82d2,2024-06-05,6d0a5269-26c0-4c01-b6fa-94838af062e0,Yoga,Operation Yoga,28.62,4,Google Pay,Hauts-de-France,Site web
+de922fe4-8109-4666-aefb-26356757083b,2025-03-21,5715e726-4791-448f-972c-100a955082aa,Fitness,Son Fitness,237.78,3,Carte bancaire,Île-de-France,Application mobile
+91224aa3-2a93-4a39-afb8-6da9b5dd9615,2024-06-17,be11c8ba-1643-4976-b918-28d96bdeedaa,Accessoires,Program Accessoires,151.72,4,Google Pay,Occitanie,Application mobile
+2561e931-a7cf-4283-85d5-0b68784c0770,2024-10-12,710dcd2c-3248-4d33-91a0-4b0defecce13,Accessoires,Two Accessoires,197.01,2,Carte bancaire,Occitanie,Site web
+c81182dc-c768-4af4-aebf-b7bad76fa3d6,2024-05-21,504080d2-b7a5-4924-aa02-c7d77419a830,Fitness,Woman Fitness,125.38,1,Apple Pay,Occitanie,Marketplace
+12b51cba-ba5d-4fd8-a3b4-c81a7c0a752a,2024-09-18,3b912666-f87f-42be-bb80-ce7094de3a1c,Cardio,Lot Cardio,126.0,3,Google Pay,Grand Est,Marketplace
+2b93f8c8-08bf-4b53-9e92-cf8dae9f3fe0,2025-04-04,6cdd98df-679e-4eef-ac05-b596a175de31,Yoga,Address Yoga,159.8,4,Apple Pay,Hauts-de-France,Marketplace
+4ef80873-b05f-40da-b076-df19909efdcf,2024-05-14,bdf0985b-05db-4064-8b54-bcf13af66a7b,Yoga,Safe Yoga,87.02,3,Apple Pay,Hauts-de-France,Application mobile
+994fa6dd-ebcf-4db9-81c5-94de398ea49e,2024-04-07,31557eb7-7cd1-4ace-b836-f7be7d35fe07,Accessoires,Stock Accessoires,154.19,3,Carte bancaire,Grand Est,Marketplace
+468574bc-c43c-40ff-b90e-7643953e00d8,2024-11-11,689a6b3d-7d7a-4f89-932b-35801036d88e,Yoga,Authority Yoga,185.64,1,Apple Pay,Hauts-de-France,Marketplace
+a7e63641-4726-435a-8bac-7bfba4d2d20a,2024-11-22,4734fce2-3c50-41fe-8c54-957cdd0c73d3,Yoga,Form Yoga,66.04,1,PayPal,Hauts-de-France,Marketplace
+71ff2598-06dc-432f-b813-a5089d43597c,2024-08-26,819711b0-2298-4a0e-8d9b-990f00a70adc,Yoga,Relate Yoga,202.77,2,Google Pay,Grand Est,Site web
+1f721006-0dc0-4c10-9894-73e33bc7a947,2024-10-11,eb3cf6cc-70d4-4d6f-b2fe-aad22ca79197,Fitness,Method Fitness,143.68,1,Google Pay,Hauts-de-France,Application mobile
+6e39dfb1-f271-457c-975a-60d9725a8d31,2024-11-24,5a680128-8fd5-448e-8df7-a43403c30dc2,Accessoires,American Accessoires,131.28,3,Carte bancaire,Grand Est,Marketplace
+1222f303-e48a-45d6-a28a-735ee3b66b06,2024-12-16,c5e03b01-31ea-4167-998a-8047ce532cef,Cardio,Blood Cardio,28.02,1,Apple Pay,Île-de-France,Application mobile
+079216fe-24b9-4b31-8425-2ee0fcbfa532,2025-01-18,d2655450-6ae6-45fe-9093-c21abbcd71a8,Cardio,Exist Cardio,203.66,4,Apple Pay,Hauts-de-France,Marketplace
+7877e24d-a626-4721-a35e-c5896dfadce0,2024-04-24,10c0ec77-c737-481c-bf4a-34c95fca4727,Vêtements,Research Vêtements,191.51,1,Carte bancaire,Bretagne,Site web
+caadbee6-d080-4dbf-b8b9-3df0101f779b,2024-05-30,beaad0a9-7e77-48ef-beb3-9413fc1791bb,Cardio,Religious Cardio,66.52,1,Carte bancaire,Île-de-France,Marketplace
+c26cdaa9-5ef3-4c0c-8d86-80fd69fd29df,2024-07-09,2a0c3ac3-ea1a-4e74-9b66-8093bca2e0d9,Yoga,Allow Yoga,134.4,3,Carte bancaire,Occitanie,Site web
+846e8947-451d-4bec-8bd7-5e7480d5f49c,2024-04-24,03c95ea1-cc4d-4d81-8a91-9bf0515fcba5,Yoga,Pay Yoga,86.25,4,Google Pay,Hauts-de-France,Application mobile
+8810ed94-d5ab-4617-9094-207040d3eff0,2024-12-26,b4b39a86-400c-4a22-8057-4fcba9a00034,Vêtements,Election Vêtements,17.88,4,Google Pay,Hauts-de-France,Site web
+59dd4ec4-b644-4813-b7fb-ec9e0998a220,2024-05-25,d8e0903c-7a4d-40c0-a803-9b350c74eaa1,Vêtements,And Vêtements,90.29,1,Apple Pay,Grand Est,Application mobile
+6251bfa3-ac92-4095-ba1c-8e251264af5f,2024-04-13,a409c4df-9bfb-42a2-90c2-eef0b806888f,Cardio,Individual Cardio,155.62,3,Apple Pay,Occitanie,Application mobile
+768fc64f-554a-487a-999f-966435d8dbd2,2024-08-26,6df4e86b-9e43-4899-8b6e-11f4b5ed373e,Yoga,Build Yoga,74.49,3,Apple Pay,Bretagne,Application mobile
+3c109918-0303-48bc-99e3-afc494cae003,2025-03-21,eda6c0e3-e367-4df9-a37d-e56cd0cfff32,Accessoires,Loss Accessoires,231.24,4,Carte bancaire,Occitanie,Application mobile
+35d24719-07f8-4e3c-ad1a-dd8c6d7616b9,2025-03-24,877f5f52-5513-4fec-b2b1-e17d4d3432a1,Cardio,Decide Cardio,77.79,3,Google Pay,Bretagne,Marketplace
+3888872f-87a6-485a-9067-435150a262da,2024-04-18,28a4ef5a-415f-473f-a780-6432350f261c,Fitness,Later Fitness,138.89,3,Apple Pay,Grand Est,Site web
+752f6358-f1f0-476e-aef8-78a740510e38,2024-08-29,0a00b867-dcf7-4d66-9578-eaa501a52777,Accessoires,Most Accessoires,120.28,2,Google Pay,Hauts-de-France,Marketplace
+ba3d7801-3b5a-4d57-ad93-0a84bcdbad5c,2024-05-13,1ecfbd00-0b7c-4efc-b9a9-b49ac71c9694,Yoga,Quality Yoga,198.23,4,Carte bancaire,Hauts-de-France,Application mobile
+49e7296e-6bfb-4230-97eb-b41997f94d3c,2024-10-23,47ffd180-d881-4dec-b921-71684c622f22,Fitness,End Fitness,42.81,1,Carte bancaire,Hauts-de-France,Marketplace
+4bb294e9-6a86-4f34-9471-31d0956f080e,2024-12-22,42b29d49-6361-4b13-aedc-50ad79626848,Vêtements,Star Vêtements,89.73,4,Google Pay,Bretagne,Site web
+ea245166-29dc-43cf-94c1-74ec229b3815,2025-01-23,d87587d9-d176-4591-a458-de91fdaa6abd,Yoga,Scientist Yoga,83.24,1,PayPal,Occitanie,Marketplace
+d61ee056-50e5-48c1-9d68-bc003a3e876c,2024-10-18,5c79d616-5e6c-4ef5-91e1-55ab16b5d0ab,Vêtements,Force Vêtements,62.52,1,PayPal,Île-de-France,Application mobile
+5f9997cf-b2b4-46a6-aab3-b893c9a3b239,2024-07-07,9501a8ec-799d-4719-929f-6425982cd8c4,Fitness,Arm Fitness,234.89,1,Carte bancaire,Hauts-de-France,Application mobile
+b549272c-9d72-4bc1-a456-0b1dff5e0d24,2024-08-28,20c7e3fb-d748-4e05-b1bc-abd509de673a,Cardio,Successful Cardio,230.65,2,Apple Pay,Grand Est,Application mobile
+339696a0-143a-47a0-ad03-59039414206b,2025-02-06,5be0e7ed-2d37-404d-bbf8-050b8028252d,Cardio,Land Cardio,41.03,2,PayPal,Île-de-France,Marketplace
+6532bea9-5afd-4d75-8da0-3be39ec7047f,2024-07-03,5cc719c3-5f08-41e1-9dd8-d06810ecf1b2,Accessoires,Beat Accessoires,132.6,2,PayPal,Île-de-France,Marketplace
+d9557b98-131b-4d45-a112-a4f93eaabfba,2024-09-17,d9362f18-41ae-4e33-bd0a-7c2a7cd7a6df,Accessoires,Southern Accessoires,192.11,4,Apple Pay,Hauts-de-France,Application mobile
+b323a0cb-1650-4d9d-85d5-71bd98e84bba,2025-02-04,01f22a30-2bf5-4432-93b7-4ae035cf4c64,Accessoires,Dog Accessoires,189.15,2,Apple Pay,Grand Est,Marketplace
+d10f2009-2c5a-41f9-a10e-6044c81e1fe3,2024-06-29,be7076fb-81eb-4a2c-b273-1cd775cf31e6,Cardio,Car Cardio,65.85,1,Apple Pay,Occitanie,Marketplace
+7020d4c5-e792-49f1-82ab-cf9cb8e20256,2025-03-23,93f914eb-2899-4657-9ee7-a5793fca7994,Fitness,Whom Fitness,82.49,4,Apple Pay,Occitanie,Marketplace
+d11277d4-02c5-43b6-ad0d-c71d185844dc,2024-07-18,77fb85c1-d7fc-4daa-8bf9-cc80e775cbda,Yoga,Tree Yoga,189.16,1,Apple Pay,Hauts-de-France,Application mobile
+455cf02b-d08b-4b75-9bd5-c57c292d9aa5,2024-05-30,b3f693b4-3663-4fb6-9f48-8e8713b52fcd,Accessoires,Page Accessoires,34.85,1,PayPal,Île-de-France,Application mobile
+4d82159a-8bc7-41ee-8713-f02ae02c1c17,2024-04-14,653f3b60-d0c0-46f0-8ca5-8c38d4b95ce8,Accessoires,Be Accessoires,113.01,1,PayPal,Hauts-de-France,Marketplace
+6d9cea2a-863a-407c-a911-9a62a0ff8479,2024-11-12,16c45fd7-ba00-467b-a82e-554cd66af53b,Fitness,Party Fitness,220.1,2,PayPal,Occitanie,Application mobile
+a20cc97f-c203-40fa-9001-c9cd5d976e54,2024-12-25,32fb8717-4b93-4e89-afaf-247f6185963a,Fitness,Pressure Fitness,46.09,1,PayPal,Grand Est,Site web
+f5bc6e75-f4ad-4eea-9ee1-cb15a2a9cf5d,2024-10-29,fe2640fe-1ba3-49da-91c7-8ffbd52036cb,Vêtements,Notice Vêtements,219.15,3,Apple Pay,Île-de-France,Marketplace
+1ed1d092-7ff1-4319-80dd-fa56acd9d7c6,2025-01-17,d9c499cb-483a-463c-8b5d-a4aedef87c70,Yoga,Standard Yoga,98.96,4,PayPal,Grand Est,Marketplace
+740f8019-47f1-42bf-b5d5-a770cfdf9c6f,2024-12-04,b03870ba-7636-41d6-9ede-01a56551e8d8,Accessoires,Increase Accessoires,51.37,1,Apple Pay,Occitanie,Marketplace
+b304348f-7b7c-455d-9c53-63b855233494,2024-04-15,9db69fb2-25e0-4c77-89ff-3ef2cdd122a5,Accessoires,Open Accessoires,187.5,3,Carte bancaire,Occitanie,Marketplace
+04e8d30a-943b-4882-84be-fbd064f26532,2025-01-22,a09ea787-8fd8-4b27-bec0-f8638b46f4cc,Vêtements,Find Vêtements,120.63,2,Google Pay,Grand Est,Application mobile
+3f62569e-1645-4e58-a278-aab72c7536d6,2024-10-03,66ce659c-e8c8-4651-afd6-50794577dc61,Yoga,Ready Yoga,237.52,3,Google Pay,Bretagne,Site web
+8ea09cab-4631-466b-9da6-1914577dba5d,2025-02-13,f0113850-8679-4d1d-89da-68d403577245,Fitness,Again Fitness,191.12,3,PayPal,Bretagne,Marketplace
+28caad7e-52ef-4366-8aa0-d51df21b53e6,2024-05-09,1c98ca41-54b0-4207-a8e6-6150255599f1,Yoga,Owner Yoga,202.54,1,Apple Pay,Hauts-de-France,Marketplace
+27c5658d-27b2-4274-b027-e6d8ea56e211,2025-01-20,bcb5026b-e86e-4b1d-87ce-856cef37abf5,Vêtements,Possible Vêtements,133.23,4,Apple Pay,Hauts-de-France,Application mobile
+602aae03-3b63-45fe-8776-f94b3f47f4dc,2024-08-05,48ca3443-0dfc-4d96-95a4-3647a1c3f62b,Cardio,Alone Cardio,94.27,2,PayPal,Bretagne,Site web
+5d30f2e0-da2b-40c0-bec8-bdd23cc1b311,2024-06-08,98af2668-e19c-4cfe-96d8-e60b85489f36,Cardio,Doctor Cardio,165.86,2,Google Pay,Hauts-de-France,Marketplace
+aa686b43-6e95-4950-babe-d19e28d0744c,2024-07-19,9ee34f99-3bfc-4466-8f4e-e1f6b948b673,Yoga,Whatever Yoga,180.58,1,Google Pay,Île-de-France,Marketplace
+4f8d8179-5869-4d06-9f75-beafec844213,2024-04-28,6ad00c04-5f69-4558-8b07-cf805eac93c8,Vêtements,Claim Vêtements,98.73,4,Google Pay,Occitanie,Site web
+b8b814f8-7f06-4c25-bcae-08c47c4846e2,2024-08-03,33549064-327a-4793-a7c9-649769421a31,Accessoires,Career Accessoires,96.12,2,Google Pay,Bretagne,Application mobile
+4073eb5d-634b-4752-b9d5-e8af508190c4,2025-01-19,99578353-1875-4bc8-9e8a-acb17c97185e,Accessoires,Claim Accessoires,36.14,2,Carte bancaire,Occitanie,Site web
+c4fc3d04-e071-4f07-b4ae-5593e5c880cf,2025-02-21,3b7b55fd-34bb-493c-b74a-5d1aaada66d4,Yoga,Sell Yoga,153.78,4,Google Pay,Île-de-France,Site web
+68d71a5b-2c27-4e5f-8d2d-96bb7111c675,2024-09-14,afb73d25-7cc0-4e52-b7da-732b35685d2b,Accessoires,Wonder Accessoires,108.78,1,Google Pay,Île-de-France,Site web
+37678b32-b241-4993-8747-4364076c13d5,2024-10-16,8018ac3c-6e41-4da6-b219-f747347bb285,Yoga,Able Yoga,199.07,2,PayPal,Grand Est,Site web
+4da0707f-34e4-43d3-9a74-d6c2581280b4,2024-06-26,36fcaf27-4436-4d76-a860-d4779906c012,Fitness,Soldier Fitness,59.47,1,PayPal,Grand Est,Site web
+c9449c7c-28ee-4a02-8007-601ca22dc130,2024-11-08,c9460f80-186a-4baa-b0c1-d569511b77b3,Accessoires,Director Accessoires,42.91,4,Carte bancaire,Bretagne,Marketplace
+05aaacd9-3698-4921-9e9f-c02a47d930b2,2024-07-22,e90d3b85-7d13-43b2-9a32-9f2339962b00,Yoga,Never Yoga,117.11,4,Carte bancaire,Bretagne,Application mobile
+2803079e-2d7a-4112-9104-f2433797c682,2024-12-12,b3ef9153-2602-4750-8660-80a4f5f65b58,Vêtements,Middle Vêtements,178.22,3,Apple Pay,Occitanie,Application mobile
+36323d8f-e355-46f4-8555-a395ce21a7e3,2024-06-05,3c08b33e-1bb8-40e4-b92c-f61229038199,Fitness,Program Fitness,36.85,1,Carte bancaire,Hauts-de-France,Site web
+7d977b32-da3c-48f0-b890-5813862ae8aa,2025-03-03,3371ed96-efcd-49c8-b502-5a56fe720cf2,Yoga,Treatment Yoga,132.45,2,PayPal,Bretagne,Application mobile
+b35eb3d0-927f-4147-9ac8-67750060c17a,2025-02-16,93ba1045-1f7b-45d4-86a7-dca7c1c2fd59,Accessoires,Something Accessoires,156.85,2,Google Pay,Île-de-France,Site web
+9a01b894-3798-4f7a-aae7-beef5e6be3e4,2024-04-15,c95b7791-1c2b-4949-a0c5-5c82216d516a,Fitness,Work Fitness,145.27,4,Carte bancaire,Île-de-France,Application mobile
+3952f063-18a1-4a4a-bd7b-753db7f21b87,2025-01-26,cd9a9c1a-120e-48c0-828c-6c4a2852417e,Vêtements,Hand Vêtements,106.26,1,Google Pay,Occitanie,Site web
+3b869bb0-47a5-4fef-8845-39ac4ba71f4c,2024-11-12,8e883554-8bf1-471f-9246-18e3d02da390,Cardio,Brother Cardio,57.49,3,Apple Pay,Occitanie,Marketplace
+35919149-e981-4d4a-8e4f-aed8e1063e54,2025-03-22,be258933-6e5d-4f37-bcdd-d510078d6e31,Vêtements,Just Vêtements,243.03,1,PayPal,Occitanie,Site web
+22c3d45d-fc5e-4ae4-988d-d31cdf97accc,2024-05-21,c3949b44-cd30-4f7a-810d-6f60978ba362,Vêtements,Serve Vêtements,36.38,1,Carte bancaire,Occitanie,Application mobile
+a530cd00-e493-4b46-bee8-69d1107547fd,2024-11-09,0d3adc7b-144b-40e8-8a15-fbe009c710ee,Yoga,Anything Yoga,157.84,4,Google Pay,Hauts-de-France,Application mobile
+07e05564-9341-41d7-b134-50bf1f92a988,2025-02-09,58a74a08-e7da-4d84-9926-c5f0fc77c25f,Vêtements,Boy Vêtements,233.6,3,Google Pay,Grand Est,Application mobile
+9570a858-0e99-45fb-bb5e-b80ca27e1397,2025-04-02,b75d3f1d-bcbb-4522-8576-921be4fc8c99,Fitness,Card Fitness,38.14,2,Carte bancaire,Grand Est,Marketplace
+f9feba0d-3ea8-47e1-be10-008697dc531e,2024-06-03,4128280a-80d5-4651-9a77-102b771e926f,Yoga,American Yoga,204.61,2,Apple Pay,Île-de-France,Marketplace
+b88deb6a-c091-4ba1-8aed-62ba20b26105,2024-09-23,1c15d4b1-892a-418a-8c24-247bc6697ff5,Vêtements,Stand Vêtements,230.7,4,Carte bancaire,Île-de-France,Application mobile
+4b7cd1a7-3b74-4a5c-9ee5-7fa9159ee965,2024-12-29,1fb63ef3-82f9-42ed-af66-c61515350716,Cardio,Thing Cardio,82.35,1,Google Pay,Bretagne,Application mobile
+5ea01c51-7874-46b3-ae4a-c13f186eb846,2024-04-07,7ce344e0-5739-400f-b00f-a720d624f0ce,Fitness,Entire Fitness,249.48,4,Google Pay,Grand Est,Marketplace
+01e99d6e-dbb8-4008-9791-37a9c79afa93,2024-07-07,49a9a00a-bb21-4d02-a067-f5393236441a,Yoga,Yard Yoga,78.54,3,Apple Pay,Hauts-de-France,Application mobile
+c3e2d0f2-d2f2-4d06-b7f7-1039de7431e8,2024-11-17,bc13bb9c-2a38-414c-9085-a45979f4861e,Accessoires,Poor Accessoires,54.77,1,Google Pay,Hauts-de-France,Marketplace
+088bc0fa-65a8-4937-8aaf-cd217dc46c9e,2024-04-25,284ac2f7-81d0-4900-bbbe-08cd2bad163d,Vêtements,Entire Vêtements,38.98,2,Google Pay,Île-de-France,Marketplace
+62fa1610-f5de-4280-9d01-963f1ae5df56,2024-04-06,de195053-127d-4ee8-9bc8-26eee6215588,Vêtements,Local Vêtements,102.96,3,Apple Pay,Grand Est,Site web
+8de62f1b-11bd-4905-9e32-35f1da7b0da5,2024-05-29,d6990059-83ad-45a6-b811-c152a3bfda85,Fitness,East Fitness,135.99,4,Apple Pay,Île-de-France,Application mobile
+0f88064b-bb69-4abe-8e9f-3b2f47c32770,2024-05-27,21fb3e04-2b1e-4749-aeef-b1fa37faaaac,Vêtements,Ago Vêtements,238.36,4,PayPal,Île-de-France,Application mobile
+3a6943fe-7eb7-4b1f-87d1-91c87c21ff5a,2024-08-09,4fe341e8-a4e8-47bf-83e2-db434e85d43a,Yoga,Interest Yoga,16.0,1,Carte bancaire,Bretagne,Application mobile
+b0a19cfe-8f26-476d-b046-4020d749389a,2024-04-26,12ffe7e6-275c-4abf-a268-3601ce9f9c87,Vêtements,Program Vêtements,172.51,3,Carte bancaire,Occitanie,Marketplace
+37658f03-ac53-43ce-a6a5-f57a41d3fab0,2024-10-10,d73540d4-fc2f-4f9f-a0b4-7f059ab21eff,Cardio,Option Cardio,70.12,4,Google Pay,Bretagne,Marketplace
+74cb7dc0-012e-456d-b5f5-2e4bfbb083bb,2024-09-15,4732d1fa-1769-4084-8996-ccb674fe2eb6,Cardio,Choice Cardio,149.04,4,Carte bancaire,Grand Est,Site web
+cdaa6983-93b0-41a1-8391-bda4968f9786,2024-05-30,6d4ac8e3-f1a5-4147-9964-cb3eec960242,Fitness,Last Fitness,22.84,3,Carte bancaire,Île-de-France,Marketplace
+3090dead-cf16-4b35-b038-132d18eec98b,2024-10-26,309221d0-ed89-4020-8436-6edad96b40c0,Vêtements,Water Vêtements,231.81,1,Google Pay,Hauts-de-France,Site web
+dda55d8c-a9c1-4688-a68c-92a9ea360346,2024-07-06,bf90a9bb-3b99-44ad-8c91-d8690f436acf,Yoga,Low Yoga,172.39,3,PayPal,Hauts-de-France,Site web
+b421989d-fc04-4d7c-8c6b-25c7b5ecfa8c,2024-05-01,d2e25d0b-f957-4dd7-aa04-fcfd55e35759,Accessoires,Score Accessoires,35.88,1,Carte bancaire,Grand Est,Application mobile
+3fa11bee-1864-43d5-bea3-89db548e0939,2025-02-17,8ac53f6e-98a0-42db-b405-764fe9bc7146,Cardio,Church Cardio,205.85,2,Apple Pay,Bretagne,Site web
+86d793ab-5b9e-43f6-9453-37ba160ba1e7,2024-12-15,64632a32-0079-4822-858c-0e8b549f7ab3,Accessoires,Time Accessoires,23.07,4,Google Pay,Grand Est,Site web
+f563cb0c-4d3e-4590-8fad-8074eb00a211,2025-01-05,baecfab1-a9fe-4ee9-965b-28738fd64aab,Yoga,Continue Yoga,177.18,3,Google Pay,Occitanie,Site web
+ee045393-48d5-4a32-bf4b-cd07a7765422,2025-03-11,44675bf3-7112-4f5c-b2ca-48486490febd,Fitness,Newspaper Fitness,197.72,3,PayPal,Occitanie,Marketplace
+68808151-7bb1-4c1c-ab89-0845a99f29c4,2024-12-30,2f536b9c-9c2d-4f5b-9d66-6e072cdfb701,Yoga,Behavior Yoga,172.35,3,Carte bancaire,Hauts-de-France,Marketplace
+a7639a9e-56c1-40ba-958f-717f1c94f0f3,2025-01-03,a6ba6a68-f78b-4b05-b3f6-74315c00ace4,Fitness,Then Fitness,146.85,2,Apple Pay,Grand Est,Application mobile
+87dae2de-4980-4542-906c-63f861a7fda4,2024-10-29,e6f6ff57-f388-483f-a1ce-d0cfc09624bd,Vêtements,Shoulder Vêtements,234.44,1,Google Pay,Hauts-de-France,Application mobile
+dc5a3cbb-4b60-416b-bc9e-b0aaaf6a12b5,2024-10-01,cb4a5e33-d89d-40b4-a075-a14e278fa52a,Vêtements,Alone Vêtements,163.08,1,Carte bancaire,Bretagne,Site web
+0b6416e9-f83a-4848-ab59-be77be633f73,2024-12-03,08d6dde3-8f70-4002-8106-1c97f1a6995a,Cardio,Hot Cardio,248.65,4,Carte bancaire,Île-de-France,Marketplace
+decdb154-0b9a-4cca-8a90-8477cad0b48a,2024-10-07,f71f3170-047e-4a4a-a7b2-e4f0f2097e09,Vêtements,National Vêtements,60.6,3,Carte bancaire,Hauts-de-France,Site web
+fdf89a3b-3c00-4828-b4e5-a9f7dd6144b6,2024-09-21,22d3d5c2-dde8-4ab4-92a1-eace8ca87977,Cardio,Although Cardio,131.02,1,Apple Pay,Hauts-de-France,Application mobile
+a11bdbf6-7a25-452a-9081-ad6255e4b590,2024-09-27,44eaca08-f429-4b9d-882b-dacccd13eadf,Cardio,Total Cardio,122.82,4,Carte bancaire,Île-de-France,Application mobile
+2d020766-04f4-469b-8d4d-c262e38ba84b,2024-11-07,3a374586-dba8-4383-a553-c2bbdd330493,Cardio,She Cardio,223.9,2,PayPal,Bretagne,Marketplace
+268087c8-7886-4ce7-8cd1-779bf2addb94,2025-03-04,64fbf49f-40e1-470a-a924-22661437bc9f,Cardio,Focus Cardio,37.94,3,Apple Pay,Hauts-de-France,Site web
+f4e1d370-b28a-432e-904a-792fa2423a18,2025-03-11,8ec79913-83a8-41ae-bb7b-91653da8aab6,Yoga,Call Yoga,233.62,1,Google Pay,Île-de-France,Application mobile
+234ac040-2d4e-4086-9911-047c39431ab5,2025-01-01,1c813a52-6122-4db8-8516-a351312ae3d6,Yoga,New Yoga,91.69,1,PayPal,Grand Est,Marketplace
+b0719fbb-fdb8-4d5d-994e-2eb25f837507,2024-10-15,a81c7aee-651f-43e3-9dde-b9ac1fa23f40,Vêtements,Professor Vêtements,233.63,4,Carte bancaire,Bretagne,Application mobile
+e6aa83a1-4099-41b9-9d64-93aed3438748,2025-01-11,29adee0d-8d86-4874-ae6b-d82607f51832,Cardio,Price Cardio,208.25,4,Apple Pay,Hauts-de-France,Application mobile
+ff8745df-8088-4193-9706-50207e85398b,2024-12-01,7a6b8cc3-b6fd-4e9a-95aa-4c46daae23e0,Vêtements,Avoid Vêtements,207.43,4,PayPal,Bretagne,Marketplace
+dd33fa1e-105e-47c8-857c-b214c41b16fd,2024-09-17,25019bc9-3b73-48d7-8589-101dfcee7922,Vêtements,Almost Vêtements,84.05,4,Apple Pay,Hauts-de-France,Application mobile
+aecb2a8d-0ec0-4abf-aeae-9f6dda095b61,2024-07-22,2168c91a-b01a-4c87-9b41-aec3c94d705a,Cardio,For Cardio,144.4,1,PayPal,Hauts-de-France,Marketplace
+50f8157d-2dde-41fb-9772-958fd37f3f43,2025-04-05,8e7e6a30-3ff5-4658-9a15-2364735008a9,Accessoires,Happen Accessoires,156.45,1,PayPal,Occitanie,Application mobile
+23c5d3ca-6a99-400f-9802-06bf5d596486,2024-07-23,f5aa81e2-a5b8-4c9b-8828-01292fd464a0,Vêtements,Heart Vêtements,73.14,3,Google Pay,Grand Est,Marketplace
+84de3e39-d58f-4464-bd39-cb5043899af1,2024-12-08,f05a73b3-d320-43ee-adce-9c6cae3f107e,Cardio,Represent Cardio,166.6,4,Carte bancaire,Grand Est,Application mobile
+cd400fee-eb0d-4b31-b17a-defb2e09e105,2025-03-11,c9d396a9-8b90-43d6-8363-9d7c7489f24c,Vêtements,Religious Vêtements,69.25,4,Apple Pay,Île-de-France,Site web
+65d4f011-0605-4c87-905e-c000d4d96296,2025-01-08,6f2f03c6-6d48-440d-b524-7d12a1a0eb23,Vêtements,Study Vêtements,22.63,4,PayPal,Grand Est,Marketplace
+fd0674d3-c1eb-45f5-b5d7-0acc5af6dade,2024-12-26,f8e2cef0-c566-4d03-94ac-ec6a8427c2f6,Yoga,Himself Yoga,182.01,3,PayPal,Grand Est,Site web
+00e0cf33-e9a9-4102-8496-6b1595ecc84b,2024-04-23,77e4a8e1-dc03-4e07-b240-e0c9f8ef87e9,Vêtements,Treatment Vêtements,80.59,4,Apple Pay,Bretagne,Marketplace
+bbceacb6-fde5-4758-b0c2-e62cad705b48,2024-07-22,a72187ec-8a8d-4c64-8982-675336e715c7,Cardio,Second Cardio,130.65,2,Apple Pay,Occitanie,Marketplace
+440e70bc-db18-4908-9e95-56d7223245d8,2024-07-17,e76cb14e-7c4b-44b8-8bbf-bc088db3dd45,Cardio,Green Cardio,164.11,3,Carte bancaire,Grand Est,Application mobile
+dc5d69e6-1b1e-4c4b-962e-3b572b9b33a2,2024-12-06,74abeb9a-22b2-4e1a-9340-367d497548d1,Accessoires,Page Accessoires,64.88,1,Google Pay,Bretagne,Marketplace
+a9388602-c264-417d-9ccf-857325931eec,2025-02-01,8ce389f9-f268-4137-abb0-204c15150a81,Accessoires,Surface Accessoires,159.29,4,Google Pay,Île-de-France,Application mobile
+3a58ec1c-fc9a-4c6f-bf88-603d80fc73bd,2024-05-01,7bbaf8a6-a41a-4a74-95db-12d81ce25438,Cardio,Painting Cardio,228.48,3,Google Pay,Occitanie,Application mobile
+9b80cb98-7877-40ee-9658-4034c639bb0d,2024-06-10,82bff89e-dcb9-47b5-90e3-b5ec2e0b406c,Vêtements,Into Vêtements,55.92,3,Carte bancaire,Grand Est,Site web
+8811302e-b748-433d-9e7d-7f03bc4c52ab,2024-08-07,e376f311-dd9a-4b2f-87d5-0f721e00999d,Accessoires,Pm Accessoires,17.57,4,Apple Pay,Grand Est,Marketplace
+495290d3-c6cd-4674-b79f-4ac09d873713,2024-11-08,828f1887-988e-407a-b3bf-f1bd0cb333ab,Fitness,Final Fitness,66.71,4,Google Pay,Bretagne,Marketplace
+bf6f660d-2734-4b8d-9368-7838e303157e,2024-10-18,bb6a09ee-d867-4cd9-8e33-e28b19900766,Accessoires,Image Accessoires,26.1,3,Carte bancaire,Bretagne,Marketplace
+8caf8b16-570a-4181-b543-57694180c2ee,2024-11-03,ce4b48d9-30fe-44dc-a280-d915071f316c,Accessoires,Base Accessoires,188.64,2,PayPal,Hauts-de-France,Application mobile
+5b532765-c386-4aeb-94c7-8a78db4c1bca,2024-06-24,9dfa8e61-10c7-4fd3-a5c7-bfb628d62711,Vêtements,Member Vêtements,148.89,3,Carte bancaire,Île-de-France,Marketplace
+0f492e54-cc1a-41bf-ad85-285ffe76722f,2024-07-08,531525e6-2e89-4e49-9196-95bdd3a38e42,Cardio,Experience Cardio,144.04,1,Carte bancaire,Grand Est,Application mobile
+f0cd4687-1f4a-4b96-89a9-f7df4e0ffd7a,2024-10-20,201c9416-50bf-4354-a04f-361ebf7ac886,Fitness,Account Fitness,161.29,3,PayPal,Hauts-de-France,Marketplace
+17b279c8-a1d4-46a2-af3b-2b24dd07412c,2024-12-02,f6810594-9ac1-4b8e-a9a6-1c1cdf692c7b,Vêtements,For Vêtements,186.29,2,Apple Pay,Occitanie,Marketplace
+62a761d0-fd74-4cca-9d40-a80e6e3b52d9,2024-11-08,061bd8c4-8dda-40c9-b41b-6ffc7bdd697d,Vêtements,Cover Vêtements,40.66,4,Google Pay,Occitanie,Marketplace
+cb09f2cd-59d7-439e-826e-8bdbb2d6693e,2024-06-16,b4334b22-ea44-47f1-8c24-b0eb67930781,Yoga,Them Yoga,76.57,1,Apple Pay,Grand Est,Marketplace
+3fb26938-1333-43b2-9408-3f37aad4b538,2024-11-08,b2d970dd-4c31-4bb1-9dbe-ba2b9c751db0,Fitness,Plant Fitness,157.45,1,Carte bancaire,Île-de-France,Marketplace
+af204be9-2cee-49f7-99c8-4eef37252531,2025-03-19,d39b5330-c8ae-4069-bc75-9e02b1290e74,Vêtements,Father Vêtements,114.48,4,Carte bancaire,Hauts-de-France,Application mobile
+7942841c-4387-4568-979f-d25c9f2af4ce,2024-05-16,146d7899-2617-4faa-9bc1-1a6bc737faf4,Yoga,Imagine Yoga,43.25,2,Carte bancaire,Grand Est,Application mobile
+c65f3fea-7b65-42ba-ab8f-516d596875c1,2024-04-16,08b34d76-6986-4337-8dc6-88568a921ff6,Yoga,Often Yoga,173.28,3,PayPal,Grand Est,Application mobile
+652fda38-c9ad-44a0-80d3-17bd120f666d,2024-04-06,ecd1c92d-909c-4f6b-81b9-c6d309dbdb4b,Fitness,Heart Fitness,98.59,1,Apple Pay,Hauts-de-France,Site web
+75383c75-14c2-404d-9a38-44c92f90e5ba,2025-02-15,a1e07036-625f-452c-970e-f58109e8c9b7,Vêtements,Lead Vêtements,161.43,4,Apple Pay,Bretagne,Site web
+23ec2046-ea5f-4d5f-b74e-1fea37bec2c1,2024-04-24,dd51f277-884f-41b8-80f0-95bd3a5ac6bc,Accessoires,Seat Accessoires,90.54,2,Carte bancaire,Occitanie,Marketplace
+7b6bcdaf-0dfc-4e0b-a672-42ab30d775ee,2024-12-22,c94e5b13-d5de-461a-b70c-53a92c184388,Fitness,Degree Fitness,242.72,4,PayPal,Bretagne,Application mobile
+352b104f-9257-4d10-8a94-3d3958376903,2024-06-12,9eaa943c-82dd-4a19-b8b0-ee883d4540fb,Fitness,Officer Fitness,108.76,3,Apple Pay,Île-de-France,Marketplace
+56ffc448-f5e8-4be5-86c6-e17c7f990ffe,2024-09-16,f0a36ac1-d4af-476a-9449-e942392c9f39,Fitness,Ready Fitness,125.87,2,Carte bancaire,Hauts-de-France,Application mobile
+cd0deac6-8384-4422-af47-ef61aea69604,2024-06-06,52a8f8f2-2a26-43f2-b72d-a622aa2bf3cf,Yoga,Want Yoga,172.79,1,Google Pay,Occitanie,Application mobile
+472c137b-74b3-4f99-bb48-a62da4a1445f,2025-01-29,b7eca4e8-19ad-42e2-96a5-f887cb9a0c25,Accessoires,Course Accessoires,17.08,4,Carte bancaire,Île-de-France,Marketplace
+7e80957e-f86b-44d0-839a-88d45af33db3,2025-01-22,397f3766-ea60-4d25-82da-6341192455ca,Accessoires,Through Accessoires,206.88,3,Carte bancaire,Bretagne,Application mobile
+5f8256fc-79e5-4128-b728-9460291880ef,2025-01-07,471c15ef-30b0-4802-89fe-604346c3db60,Accessoires,Conference Accessoires,249.84,3,PayPal,Hauts-de-France,Marketplace
+9ecab1b3-f870-49a2-b991-141e22c09cd3,2024-05-21,9a426f3e-9072-410d-970e-97b053df9b8c,Vêtements,Want Vêtements,15.28,4,Carte bancaire,Grand Est,Application mobile
+f14ebd6f-738d-429d-a692-cfee00631744,2024-07-16,2f7e0c41-ea14-42f4-af6c-06f4a20d78f9,Fitness,What Fitness,169.0,1,Apple Pay,Occitanie,Marketplace
+edf0d6ff-61a4-4be2-95e8-b2e1bbe26845,2024-09-09,87da28bb-3c6e-4b08-ae5c-69415ebaded6,Vêtements,Bar Vêtements,211.57,3,Apple Pay,Grand Est,Site web
+d490440d-b734-45a7-95d6-a292aab2935f,2025-01-11,cc07395a-e9b0-4b20-ae7b-0ca85b0c1bbe,Fitness,Cut Fitness,83.8,4,PayPal,Occitanie,Site web
+7f044adb-5483-4536-adfb-d12a5011c134,2024-09-21,4156379e-dd86-43b8-9115-f626aa69b8e5,Cardio,After Cardio,43.99,4,Google Pay,Île-de-France,Application mobile
+fdac33d9-04b0-437d-ba68-e94952bf9ff5,2025-02-25,ed3d2659-2d33-4642-8e21-f3a3f3c57f47,Yoga,Site Yoga,223.01,3,Google Pay,Hauts-de-France,Application mobile
+ff6fc988-3ad8-4ec6-8953-bb8947903709,2024-07-10,23d89fcc-276b-46da-bd08-4f589d3837e6,Vêtements,Poor Vêtements,192.52,4,Apple Pay,Bretagne,Site web
+ed926f3b-9de9-4161-974b-1776fc11e963,2024-08-12,175297ce-3ac8-40e6-82a4-6835bcf003c6,Yoga,Value Yoga,173.87,4,Carte bancaire,Bretagne,Application mobile
+c2a3bcf4-529f-4372-acf0-93ff35603d93,2024-08-30,d72a8985-0679-41b0-bcea-62dbcde8e2a0,Vêtements,Itself Vêtements,105.54,1,Apple Pay,Île-de-France,Application mobile
+fca43e43-ab9f-4565-a105-0f140f3a0c14,2025-01-25,06c6d8f6-a4bf-44ed-af99-02c9caf1e4e5,Fitness,Thing Fitness,79.85,4,Apple Pay,Bretagne,Site web
+1c7ef2a8-6acf-4d80-8ff9-9cfd8f60b06a,2024-04-27,1cc52273-514f-445e-a844-19780a194b05,Yoga,Writer Yoga,184.96,2,PayPal,Occitanie,Marketplace
+d32bbd55-c287-423d-9fdb-a0c27ca9b53a,2025-02-04,c23e52c9-a5ef-410d-b646-3a60276400fd,Yoga,Rule Yoga,116.42,4,Google Pay,Hauts-de-France,Marketplace
+2fbd534a-9197-4e86-a187-d1c60dbf8d9c,2024-09-27,12ad5737-8c2c-47bd-ba48-737056d79b21,Vêtements,Build Vêtements,23.87,3,PayPal,Grand Est,Application mobile
+479a7c59-4963-4baf-be25-68a4fc6f8f97,2024-09-07,ed2540e5-df57-41fa-ab2d-116e92312f36,Yoga,Where Yoga,226.28,2,Carte bancaire,Île-de-France,Site web
+517b2d99-ac8e-40bc-89d0-a376c3ae45eb,2025-02-16,dbcfb341-fba0-4d1b-b54d-f1baa8377f5a,Cardio,Through Cardio,139.0,3,Apple Pay,Grand Est,Application mobile
+fa28b95a-d591-4f7a-a1f1-42525aa6e9f9,2025-02-26,a2939b3e-eacd-4b8d-968e-c7114a5d9a0d,Accessoires,Get Accessoires,178.25,1,Apple Pay,Grand Est,Application mobile
+e7c4cf38-569b-45e3-a245-e248e864f2aa,2024-06-29,3d5f36bc-55f8-4a7a-bf36-a1b704e90586,Fitness,Wait Fitness,118.69,4,Google Pay,Île-de-France,Marketplace
+b73d47c9-c43b-4b1d-b07e-a2978df469a7,2024-08-01,2aed9fde-27a7-437f-a719-1e23046ef9a8,Yoga,Tend Yoga,56.41,4,Google Pay,Île-de-France,Application mobile
+ad13b9fc-f3a7-42aa-826b-f6521414d5eb,2024-09-07,9a3c9d3a-89d9-4c1f-9e03-f66fae89673b,Yoga,Picture Yoga,51.42,4,Apple Pay,Bretagne,Site web
+dd8b8d64-9ec7-448c-9cb3-a39a3de173aa,2024-08-22,0ac6526c-984b-4e66-99bd-a03ca9292cca,Fitness,Eat Fitness,179.61,3,Carte bancaire,Hauts-de-France,Site web
+377d95a2-658f-4215-8768-dfeee5d3b743,2024-11-11,bd7d116d-ca2d-4c07-85e8-3956f8562913,Cardio,Participant Cardio,224.82,2,Apple Pay,Île-de-France,Marketplace
+e04abac0-e2b3-40cc-aa3a-7377cacd709d,2025-01-26,537d1335-6eb3-45e4-9bb1-0d4008ef06ff,Yoga,Participant Yoga,40.17,1,PayPal,Grand Est,Site web
+9d9f32e9-50a0-457f-87ae-74a660340025,2024-07-29,78fecb2c-9392-42f9-8e0c-94e7e99912e5,Vêtements,Respond Vêtements,186.83,3,PayPal,Occitanie,Site web
+7f1516a3-d54d-49d5-bce2-a8f69eb1cc6f,2024-12-20,06b5bc88-2ef2-428e-a19c-50b3d473c82e,Cardio,Start Cardio,201.57,2,Carte bancaire,Hauts-de-France,Site web
+d750e106-f635-42a8-b4e5-601eebd3256a,2025-02-06,ffdca215-9277-4619-86a5-cadbc9754167,Vêtements,Sure Vêtements,97.57,3,Google Pay,Grand Est,Marketplace
+f23a4895-50d5-44af-aa0d-78d37516791f,2024-04-30,507e8ec1-d88b-431f-badd-f680483ab876,Fitness,Candidate Fitness,99.31,4,Google Pay,Grand Est,Marketplace
+b4ab19d3-e157-42aa-9538-7de7ae485f8d,2025-04-06,374f8b5d-88a0-4935-b93a-5252a212355f,Fitness,Prevent Fitness,37.08,2,Carte bancaire,Hauts-de-France,Site web
+f47f978f-2c99-4246-bb5f-0050ccc87a6b,2024-08-22,036d3813-6be4-40dd-a6cd-5ad2ecdb71be,Vêtements,Begin Vêtements,220.86,1,Apple Pay,Hauts-de-France,Site web
+66f45536-f11d-4920-bfe2-539bf0c63340,2024-11-11,09e93f60-a691-4dbd-991a-19fd11174e48,Vêtements,Per Vêtements,219.06,2,Google Pay,Île-de-France,Marketplace
+f6376754-cc71-4c0f-a682-00d5c78461fd,2024-12-26,649d7494-cc21-4119-9939-8a808a459b8d,Fitness,Pretty Fitness,139.19,1,Apple Pay,Grand Est,Marketplace
+b165c80a-d467-450b-8b35-a4522227983e,2024-12-05,982e785b-b2f6-4b95-80b2-74be91a82e39,Fitness,Fact Fitness,91.56,1,Carte bancaire,Bretagne,Site web
+f90685d5-4288-4546-ae6b-7c1053b33981,2024-12-25,3af27fb4-31c8-4ae9-bfdb-78ad2f08ec5b,Cardio,Possible Cardio,32.51,4,PayPal,Grand Est,Application mobile
+4c032b5f-a07e-4fc8-a0e2-da24c1254e61,2024-08-02,10848c89-a320-419c-99ef-55415b79238f,Vêtements,Sound Vêtements,75.12,3,Carte bancaire,Hauts-de-France,Site web
+69e16541-3b19-430b-af74-7f95251f5156,2024-08-12,253b33e9-08a3-44f2-a17b-8d043270be67,Cardio,Into Cardio,40.73,4,PayPal,Grand Est,Site web
+adb879cb-cbd8-4b4d-8a70-62cb14fceedb,2024-09-14,7dbf17e3-fdb4-4738-8ce7-91a3c6fa8aad,Fitness,Whole Fitness,85.85,2,Carte bancaire,Occitanie,Marketplace
+737f3064-7f47-4daf-8bd7-1363fb6f7caf,2024-05-14,8f07bbf3-dd67-44d9-9b4b-29389dcaab0b,Cardio,Young Cardio,75.33,1,Apple Pay,Île-de-France,Application mobile
+3cb119d4-3864-4652-b132-594791cc2aef,2024-08-08,2fef4f91-7325-4e72-96ea-02ebd29a44db,Accessoires,Go Accessoires,66.02,3,Carte bancaire,Grand Est,Marketplace
+bc9bd194-8287-4474-aa51-d93fda654efd,2024-12-20,90d19fbf-e426-4590-9628-9edd4994da09,Vêtements,Still Vêtements,172.34,2,Apple Pay,Hauts-de-France,Site web
+4b991fa6-da08-49b4-9c62-77893ed1eb62,2024-06-19,8c646696-98d5-4b86-bcf5-c894614e146f,Cardio,Remain Cardio,35.72,3,Google Pay,Grand Est,Application mobile
+a971c0a1-83e1-4b64-a0ab-c775536a5085,2025-01-21,d9f4984c-fcfc-4897-8fbd-928ddf5c1797,Fitness,Modern Fitness,91.72,2,PayPal,Île-de-France,Application mobile
+441be0a6-b9de-4483-be00-0ec52f1f540b,2025-03-05,4b831d76-41fe-4f39-9c4d-b578e253ffb4,Fitness,Kid Fitness,34.31,3,PayPal,Occitanie,Marketplace
+f04ca8f8-5340-4a5c-a373-d11f36144dad,2024-12-21,a5298c2d-eb7f-46c1-b909-d3cff5a922bd,Yoga,Third Yoga,143.15,3,Carte bancaire,Île-de-France,Site web
+e58f7ccd-a8be-4dc4-92df-301a9520671d,2024-09-23,5084ea82-d520-4976-8242-fbbb697bf2cf,Accessoires,Quite Accessoires,187.52,4,PayPal,Bretagne,Application mobile
+d8ff82d0-4f56-419a-af27-74c1bba503dd,2024-05-24,a225520c-74ec-41d1-92cb-31be950e273e,Yoga,Nation Yoga,207.94,2,PayPal,Grand Est,Site web
+153fdc04-4f3d-4ff2-982b-19e78b6965f9,2024-12-27,d64edb2e-dc3e-43c8-ab73-adca2e816123,Cardio,Argue Cardio,47.25,2,Carte bancaire,Bretagne,Application mobile
+958b46d5-605b-4b20-b10f-c6186a1e5d89,2024-08-18,3e63564a-94c3-42f3-ba3f-79bde7e17b79,Fitness,Exist Fitness,206.81,1,Google Pay,Grand Est,Marketplace
+dbc866a3-dace-4d94-8d32-f22c973805c9,2024-07-17,788d36c9-8c67-4a4e-b89f-478e0f77633f,Vêtements,Idea Vêtements,192.96,2,PayPal,Occitanie,Site web
+fd65af65-4a66-4219-82d2-d605e9e884d5,2024-10-17,263e1bfe-291c-4c01-92fd-83c629c3fdce,Fitness,Source Fitness,92.31,1,Google Pay,Hauts-de-France,Marketplace
+6c7b913e-9ed2-4516-a195-f420573c30cc,2025-01-11,691035f4-86e9-458c-9d4f-9e558f979575,Cardio,Upon Cardio,66.04,1,Apple Pay,Île-de-France,Application mobile
+d2146fb4-c86b-4c16-8cb9-2899ae134f96,2024-05-11,07174a28-e96a-4d01-aec2-3ecfd304e88f,Vêtements,From Vêtements,117.37,4,Carte bancaire,Grand Est,Site web
+60b046db-e832-4280-ae17-abb1efbe5635,2024-08-13,1d9a031b-21fa-4b7d-b6e1-7dfe5fe83555,Accessoires,Vote Accessoires,50.83,2,Carte bancaire,Occitanie,Application mobile
+3b719427-7e98-4f02-88a9-3e6db83e0d28,2024-10-20,87b840e3-785f-43f5-b460-253479ac1b6a,Fitness,Technology Fitness,108.74,3,Google Pay,Île-de-France,Application mobile
+fb40639a-0da0-4261-9bb5-dcb8f5a69ff5,2025-01-05,7db40923-8a10-4a37-b5d2-af4dcd780afd,Yoga,Place Yoga,96.06,1,Google Pay,Île-de-France,Application mobile
+1ed47e95-84ed-409d-8c9d-a6297fd129f2,2024-04-28,ef5e8c1f-786f-4c36-b3bc-17f04d6a2729,Cardio,Stand Cardio,127.38,2,Apple Pay,Hauts-de-France,Site web
+fbd2af71-2c24-49fd-976f-bcfebb4439c7,2025-03-17,4c453bb8-3c35-4226-b48d-eaf8143defdd,Accessoires,Throw Accessoires,167.48,3,Carte bancaire,Île-de-France,Application mobile
+da77bb8c-e417-4d1c-bddb-bc90035a1212,2024-11-30,8d7b1df9-17df-4421-bc2b-615ede198055,Vêtements,Describe Vêtements,145.62,3,Apple Pay,Occitanie,Application mobile
+a53d6f8e-96aa-498d-a470-ab7e5543d1a7,2024-10-07,26a2b925-ba2a-4308-a645-09b4d3da44d4,Cardio,Drive Cardio,147.54,4,PayPal,Grand Est,Site web
+22726187-3d68-44a6-ae34-39ef4a77c6d1,2024-10-28,9fc996ab-4745-4b64-8145-6b665f4093fc,Yoga,Material Yoga,180.78,1,Apple Pay,Île-de-France,Site web
+723a2618-0329-49a4-b757-3fef5e924341,2024-12-22,7601d190-7251-4cce-99c6-d760c22f67a8,Yoga,Wife Yoga,196.77,4,Google Pay,Occitanie,Application mobile
+f150653e-a74d-45f9-978e-dadb6183f82d,2024-05-06,6676b8f0-998c-483e-82ff-b4c652ed7ac0,Vêtements,Church Vêtements,173.46,3,Apple Pay,Hauts-de-France,Application mobile
+84c05dbb-7076-43a1-8cf9-bb9bcf67adc7,2025-02-26,a73e21d2-97cd-4d3d-a453-f88379ac6aaf,Yoga,Population Yoga,20.18,4,Carte bancaire,Île-de-France,Application mobile
+5e7a2130-8376-4f51-a995-91d2ebea7561,2025-02-09,b3da6282-76a4-4c14-8294-656688baa985,Fitness,Politics Fitness,135.1,3,Carte bancaire,Grand Est,Site web
+bd2b15e8-4cc2-4be4-b7c1-5be5b18a33e6,2025-02-13,111f3291-12c6-4b46-9e3d-c1d933670588,Cardio,Pick Cardio,26.56,4,PayPal,Occitanie,Site web
+bbeb0ce6-eba7-40ba-9d75-00d1d98acefb,2024-05-02,36abc626-ed03-4592-896b-64f5a19b3dbd,Yoga,Reflect Yoga,82.53,1,Carte bancaire,Bretagne,Marketplace
+2c6aca9f-c433-4724-b9df-2b3471ec9e1d,2024-04-06,84a44c25-87e8-4da8-bb0b-f6530edfd26a,Cardio,Spend Cardio,232.08,2,Google Pay,Bretagne,Marketplace
+5dcc5a68-1e08-4627-b660-e5add36de3de,2024-10-24,dad85ac6-be7b-46fa-9e1c-ade2b11bf5d6,Yoga,Involve Yoga,122.68,3,PayPal,Occitanie,Application mobile
+314f0f14-e266-45cf-96d3-68954bb5655c,2025-03-09,660ebf5b-f997-4df7-abf6-6ee129d4cff8,Fitness,Physical Fitness,95.51,1,Apple Pay,Occitanie,Application mobile
+9eff6a87-1d8d-4b5e-bf55-9b487c00efff,2024-06-14,44d2a6a8-6dd8-4728-83b4-12aabf21543d,Yoga,Much Yoga,129.89,2,Carte bancaire,Bretagne,Application mobile
+0bc6254c-ccf9-4dd4-96e8-a24ee47cb299,2025-02-21,6fee84ad-8a53-4863-854e-fdb9482e7339,Fitness,Doctor Fitness,188.84,4,Google Pay,Île-de-France,Application mobile
+51be701b-b2cf-4fdf-ad61-456f985f9639,2024-11-29,bca2def1-f39f-4271-bd54-bb74e1953338,Yoga,Across Yoga,120.85,2,Apple Pay,Hauts-de-France,Application mobile
+fb07b36f-cd21-49ae-93d4-2b5ed0e40296,2025-02-14,df85d944-d17e-413e-93da-15f71af6a995,Yoga,Agreement Yoga,212.2,2,Apple Pay,Île-de-France,Site web
+3c05bd0a-e08d-4b7a-8423-fc7a5ba5f738,2024-12-30,da790882-5aaf-4ac3-a272-d4982d5d35b9,Accessoires,Perhaps Accessoires,54.75,4,Carte bancaire,Grand Est,Site web
+2541a0fc-10bd-497e-908f-ce456d31d1e7,2025-01-01,382d78e2-3fe1-4808-81ed-cb24e3f29c89,Fitness,Old Fitness,89.05,1,Carte bancaire,Hauts-de-France,Marketplace
+c3a075ed-32da-42c7-b481-b56a45b2acaa,2024-05-11,13320135-9ff6-455c-9816-585188e5fc78,Fitness,In Fitness,180.18,3,PayPal,Bretagne,Site web
+16927fc9-24ed-44ec-8419-20a25361e6ed,2024-05-17,a226ccf8-3824-489f-a913-29579d637e11,Yoga,Relate Yoga,49.87,2,Google Pay,Bretagne,Application mobile
+f258fdb3-d0b2-470e-8ec6-a728533a1da6,2024-07-04,89c39616-24fa-45d0-90da-fbb8b7de73a2,Accessoires,Step Accessoires,199.53,2,Apple Pay,Île-de-France,Site web
+a2a00051-6df3-48ed-a4e2-fbc9b9d32a6d,2024-04-12,e3cae4b1-d88f-4040-b01d-4bc3056838b9,Vêtements,Career Vêtements,249.12,4,PayPal,Hauts-de-France,Marketplace
+abadc34f-4f4e-4a26-b5d9-4d898a293731,2024-12-22,970ca4f9-4c23-4e3d-9dbf-cc10f671e25a,Fitness,Whole Fitness,171.21,3,Google Pay,Occitanie,Marketplace
+11b8a819-c02a-4fc6-90ac-1c0e7b3551ef,2024-07-14,4edea4bf-3f90-41ce-8373-561a88bdee97,Vêtements,Might Vêtements,61.47,1,PayPal,Grand Est,Site web
+9e21a25a-e10a-4f02-a9f5-5eb5e9a6722f,2024-09-11,ee41085d-b2cf-4ecc-81bc-5f2da931ca91,Fitness,Ball Fitness,233.27,2,PayPal,Île-de-France,Site web
+cb24fbcc-2028-4a4e-85a8-87d37d191f28,2024-07-10,71f1f781-5a21-468c-b628-1b441bdeab5d,Vêtements,Reflect Vêtements,82.55,1,PayPal,Occitanie,Site web
+078093cd-774d-40e1-a3ae-ebf2413ceeff,2025-01-29,57cf41eb-29c6-4441-8a0f-f229e608e208,Vêtements,Fill Vêtements,157.62,3,PayPal,Île-de-France,Marketplace
+8709ca08-15d7-44c9-866b-5eb12b738997,2024-12-21,44ac64d9-bb4a-449b-9751-f0afe04f293e,Yoga,Series Yoga,125.32,1,Google Pay,Hauts-de-France,Application mobile
+b5e12b14-c9c6-47fa-ac5a-2966862ebd93,2024-10-19,2cc8c5be-46b7-408e-a21a-726c46d244dd,Accessoires,Kitchen Accessoires,163.42,4,Google Pay,Occitanie,Application mobile
+209f9860-a0ca-47a9-8d19-a635968ba6ad,2025-02-03,d288cefc-0469-4568-a517-46a9fcb28486,Accessoires,Ball Accessoires,170.78,4,Google Pay,Bretagne,Application mobile
+db0c4827-ba76-4f99-b279-43708cdcfc0b,2024-05-10,348eb1a2-97db-4860-b203-db1fb597d833,Yoga,Different Yoga,214.63,4,PayPal,Hauts-de-France,Application mobile
+1c6c7d3a-9d88-4fd6-a9a9-94faead80869,2024-10-29,2c29280a-9580-468e-8983-40869dbacb51,Fitness,Bed Fitness,97.16,2,Google Pay,Grand Est,Application mobile
+5dac2a18-fde3-48e3-a47e-c1dfa72f7d2f,2024-05-09,c2314874-6e01-4c7a-8290-115a42e7168b,Yoga,Behavior Yoga,107.14,4,Apple Pay,Grand Est,Site web
+c8a3f16c-c7f4-42c9-ba97-1a1bc6eef698,2024-09-05,7387084e-c59f-4ac5-bb40-ccc4a8182403,Yoga,Five Yoga,146.29,2,Carte bancaire,Bretagne,Marketplace
+ce51390f-1c1d-48f2-8656-be1517908008,2024-10-07,acfdc138-d7f9-42db-826a-7ed46367a71b,Accessoires,Defense Accessoires,135.31,4,Apple Pay,Bretagne,Site web
+83118ce0-ba68-430b-8b3b-bd95eb48b6c1,2025-01-17,a520b9a2-4236-4683-97ab-8362c3739f84,Cardio,Use Cardio,181.12,2,PayPal,Grand Est,Site web
+2a94dd9a-0d49-4354-9ac8-e44431810f6d,2025-01-28,efb70141-fabe-4617-9a81-63153d6d1c7c,Yoga,Cup Yoga,143.36,4,Google Pay,Occitanie,Site web
+62ef0c1b-14b4-4a95-acf3-d37787764e7c,2025-02-07,e6cb3def-7901-4aae-9fa6-feb0e3729901,Accessoires,Process Accessoires,19.91,4,Google Pay,Hauts-de-France,Site web
+2950b64d-13fb-4796-a051-97b181fbf612,2025-01-20,fbd0aecf-ef78-4feb-98ba-95a2340cf4bd,Accessoires,However Accessoires,104.62,4,Apple Pay,Bretagne,Marketplace
+15dd7beb-8121-4200-84b7-21a638c6f261,2024-08-27,599559db-d9ba-4b65-ad38-79adb4557b33,Fitness,Difficult Fitness,161.37,4,Carte bancaire,Bretagne,Application mobile
+67a934eb-cbcc-45c0-8ce3-7e6cb423bd33,2024-07-13,fd70f930-77fc-405e-8158-742bf416ed69,Yoga,Sound Yoga,232.94,2,Apple Pay,Île-de-France,Application mobile
+11ef0aef-3a56-4e2a-b103-a78b5eb19435,2024-08-10,272c45ea-c207-446e-9fd4-8cb3a635d78e,Yoga,Key Yoga,106.01,3,Google Pay,Île-de-France,Application mobile
+43c56776-59dc-47d6-af1f-9c9176d3149b,2024-12-05,214d12dd-db08-4d57-a074-c672023ffa5d,Yoga,Defense Yoga,81.11,4,Apple Pay,Bretagne,Site web
+c4e183f9-ec73-4086-9314-ddb66b33a2aa,2025-02-11,7b351a76-7205-4a2c-94f2-94175803fe23,Fitness,Yet Fitness,201.2,4,PayPal,Occitanie,Application mobile
+1cee9c07-85e0-403e-9bbd-97c99c7e68b0,2025-04-06,37bafb49-b7cb-4c4c-8304-d291e99cff74,Yoga,Enough Yoga,25.26,2,Apple Pay,Occitanie,Application mobile
+799870fd-5fd8-4082-b41f-8a2b6d4aa6f0,2024-08-29,49629813-3c16-454f-9b45-5e1cf260297c,Cardio,Goal Cardio,198.29,2,Google Pay,Hauts-de-France,Site web
+4d01b66b-0485-4838-a7fe-74016bcdfc04,2024-11-12,db2ab731-4e20-4765-a9ab-abbcd62c9b2b,Cardio,Onto Cardio,204.87,2,Carte bancaire,Hauts-de-France,Application mobile
+cee5afd6-e0f1-4808-8790-0885df6f2ef3,2024-11-21,8a940713-317a-4811-a3ba-cd0a1493805e,Yoga,Senior Yoga,156.41,2,Apple Pay,Grand Est,Site web
+7ca2d60b-9653-4baa-9c70-da5dd5def212,2024-06-06,70f7917b-6b36-455e-9d4f-2a5c7166323d,Vêtements,Democrat Vêtements,98.86,4,Carte bancaire,Grand Est,Site web
+4d40e590-efbe-4309-bf5b-17604b2b3948,2024-08-20,d4f570db-2439-4496-8b53-17be020b8222,Fitness,Leader Fitness,244.81,1,Google Pay,Bretagne,Application mobile
+e11224fd-f8d1-47c1-b72a-de7e1ec2ffaa,2025-01-11,c9a6eb48-9650-4d37-b250-e919b6675c53,Fitness,Paper Fitness,89.26,2,PayPal,Occitanie,Site web
+c32ed5e4-f17c-463e-86bf-0b8df5aff467,2025-02-06,0ecfc4c7-5f84-40b5-bdec-c2f7b8a3e193,Cardio,Benefit Cardio,115.01,1,PayPal,Grand Est,Application mobile
+54a6911f-cea2-48c3-b840-35b5988a6193,2024-06-08,8923992c-1817-4ce7-bcdc-72048e3d1c77,Yoga,Standard Yoga,240.7,3,Apple Pay,Bretagne,Marketplace
+e533e94c-fafd-461c-bab9-12e5265846f8,2024-07-12,f4e2a7dd-1316-4cc2-82c4-1e95b9b0e9a6,Cardio,Away Cardio,213.65,3,Apple Pay,Occitanie,Site web
+b250c9ed-61d6-41d6-88c2-b622e6a7ed10,2024-06-03,f302a439-9a2f-4943-b665-fc9f1d5d3c28,Cardio,Talk Cardio,72.14,2,Carte bancaire,Occitanie,Application mobile
+a916c439-b3af-46c1-984d-5cea2250236b,2024-08-20,13331520-4b3b-4364-840b-7a76d77024dc,Cardio,Up Cardio,232.95,4,Google Pay,Grand Est,Site web
+65202418-84de-4df8-93f4-a196e0769cf6,2024-07-08,5cf045a6-c1a1-47e9-9d37-27445f88c2ea,Cardio,Ball Cardio,196.96,4,Carte bancaire,Bretagne,Marketplace
+933224fc-61ec-4e1f-83dc-3a53bb655cc5,2024-10-08,ac3403b5-2419-480f-9b24-470eb0529b9d,Fitness,Fine Fitness,214.0,1,Carte bancaire,Hauts-de-France,Marketplace
+676a0dbf-f464-402f-bd90-bcfae2222059,2024-09-28,c41162f5-5afd-4058-b8b7-70b9c275eb5e,Accessoires,Attorney Accessoires,200.16,3,Apple Pay,Occitanie,Site web
+befb9784-c34e-4faf-9be3-fb1c53573571,2024-05-19,7893929b-f3cd-4b72-9eb1-0e146fbc12e8,Fitness,Lay Fitness,114.22,2,Google Pay,Occitanie,Site web
+282c948b-d05d-401c-8780-ad41adcfd4d3,2024-10-19,146036eb-b221-486f-9c51-f77b9d3f2c46,Accessoires,Admit Accessoires,37.85,4,Carte bancaire,Occitanie,Marketplace
+77db9a06-42b8-4ec0-bb62-f5c012ea46df,2024-04-19,df1dcdfc-4dab-4b83-9227-fb11bdfc5e88,Fitness,Government Fitness,50.06,3,Google Pay,Île-de-France,Site web
+887e1bb5-abbf-403a-8eaf-71c3f078f1d4,2025-01-25,1703a60b-8008-47a4-98af-fb130210c5b9,Yoga,These Yoga,101.09,1,PayPal,Île-de-France,Application mobile
+db950af4-59bf-4e42-b7c7-19029cf2a699,2024-07-04,e404880f-a01e-4da3-a654-0612d6d838ea,Accessoires,Itself Accessoires,170.25,2,PayPal,Bretagne,Marketplace
+58135a18-4089-4419-b27d-fd625dca126b,2024-07-29,c02c897e-c8ef-465f-bce5-401d4ddfff00,Yoga,Certainly Yoga,39.34,1,Google Pay,Hauts-de-France,Application mobile
+1b029291-298e-4109-b64f-2ace8c3ccb78,2025-02-01,738cd356-71c1-4a1e-b09f-7ee289c981c1,Fitness,Unit Fitness,186.21,4,PayPal,Hauts-de-France,Site web
+b0daa578-a2f6-4a7a-a2aa-f0b38400f41e,2024-12-07,b7bca626-960f-4fcb-8ceb-198ec584890b,Fitness,Hospital Fitness,39.78,2,Apple Pay,Occitanie,Site web
+c751c442-f9e6-449a-89d1-a49130ab53bf,2025-02-28,698231a9-dadb-42cf-8c57-23625b398993,Vêtements,Total Vêtements,92.13,2,PayPal,Occitanie,Application mobile
+d8fe15d4-de48-4e45-8358-f0bc321e7e91,2024-09-21,e07ff3f6-b91f-40c0-9e75-179af6193f18,Fitness,Meeting Fitness,163.98,1,Google Pay,Hauts-de-France,Application mobile
+ba8a4c28-d0ab-4d1a-a37b-84ac0698a5fc,2024-09-10,3e106838-d629-44a0-b5d4-627f77620215,Accessoires,Off Accessoires,152.1,2,PayPal,Occitanie,Application mobile
+680059a3-4567-44d7-a50a-1b24e1bdc3f4,2024-05-16,7051c811-23aa-4c33-a2ee-960af3851195,Yoga,Foreign Yoga,64.09,2,PayPal,Grand Est,Site web
+8ef5aaf0-67b3-4f76-9f76-3c9b7792f845,2024-07-04,a6833713-81df-4c75-b62a-7bda0924329c,Cardio,Role Cardio,245.84,2,PayPal,Grand Est,Marketplace
+30b8de0c-799e-4ee1-9188-d94b6bf6d7d3,2025-01-07,f889b870-4a14-4961-825d-35cbbabfe922,Cardio,Beautiful Cardio,119.02,4,PayPal,Île-de-France,Marketplace
+da37b781-dcb1-4859-9783-355bead013f6,2025-01-25,05f6ab79-10e9-4611-bee8-181e1fbbbfe9,Vêtements,State Vêtements,81.25,3,PayPal,Bretagne,Site web
+fa013a9e-50cc-408c-af9b-e063a6260461,2025-01-02,e4cff7c1-5984-42b6-9ea6-54dd37bc2884,Cardio,Beyond Cardio,225.59,2,Google Pay,Hauts-de-France,Marketplace
+dc910ea1-55d5-4937-9f9c-fa4a1af2360f,2024-11-25,4962c686-6779-48ca-9aae-de1a6f404e95,Cardio,Give Cardio,206.22,4,Google Pay,Grand Est,Application mobile
+f89a5885-e54d-4962-af3f-71c4ec54dc28,2024-06-28,28dc2890-19f3-4b6d-9343-3048596aee4f,Accessoires,Foreign Accessoires,72.08,1,Google Pay,Occitanie,Application mobile
+f25f8545-4148-4c30-85db-861b907fe480,2024-09-28,23d04220-c584-4bbb-971c-f48b7d1e1fe3,Yoga,Age Yoga,103.79,4,Carte bancaire,Bretagne,Application mobile
+05cd9892-2fe8-41ca-bc71-4d4ea5de7451,2024-08-23,ef753e51-69b4-497c-b8af-e1d217453b34,Cardio,Result Cardio,147.82,3,Apple Pay,Bretagne,Marketplace
+2c3d399e-4f91-4c71-bdbc-328f838d8ffd,2024-11-15,06382edd-6ef9-49a3-97d8-99f12543d878,Cardio,Husband Cardio,71.48,2,PayPal,Île-de-France,Marketplace
+561f53ea-fc1b-46c6-b799-4b0fdcf315ad,2024-09-30,c2d7c7ed-44ff-4100-915f-2918e3da9293,Accessoires,Force Accessoires,93.39,1,Apple Pay,Occitanie,Marketplace
+14bff31c-043b-483e-9c7e-4f739abd7cf3,2025-02-28,c98b091d-7cce-49b2-bf39-53d15ba774be,Accessoires,Somebody Accessoires,194.15,1,Carte bancaire,Grand Est,Application mobile
+2e9dc810-f1c9-4b3f-baa2-4919183a7eac,2025-01-11,52563a64-9f20-458f-a1ef-710427700b9d,Yoga,All Yoga,115.22,3,PayPal,Occitanie,Site web
+176bab07-8fc0-4862-95d8-112ed7ff4529,2024-12-16,66ddeeb1-32c8-44c1-8bb2-8d1b4aed6827,Yoga,Improve Yoga,145.97,2,Carte bancaire,Bretagne,Application mobile
+3ca52293-426b-4ed9-aa2d-48cf73477f12,2024-07-04,4a3b1e76-1ae8-4637-ad79-947a8b225314,Fitness,Culture Fitness,122.85,2,Carte bancaire,Île-de-France,Application mobile
+08e0afb9-c61a-4988-8453-383c4350bd2e,2024-11-26,0902debb-5071-42e0-b92b-caae6b153edd,Vêtements,Believe Vêtements,109.72,4,Carte bancaire,Hauts-de-France,Application mobile
+e8c7adc9-2fd8-4abd-b381-58c02bcdfc77,2024-05-12,ebdeef5c-30d3-4af7-8dc0-0f9cb35c3421,Fitness,Seem Fitness,160.25,2,Carte bancaire,Occitanie,Application mobile
+8fcc68e8-986f-464c-9a86-64c8d956b7f3,2024-11-10,b792eaed-d84b-4291-89aa-ed9a40db50ff,Yoga,Show Yoga,214.56,4,Carte bancaire,Hauts-de-France,Application mobile
+4092458a-1757-4c5d-a4c2-ebc08daf601a,2024-09-29,dc930f0f-daed-4d25-bf40-63efd3e49aa2,Yoga,Well Yoga,112.37,4,Carte bancaire,Île-de-France,Site web
+a2b35749-390f-4cea-975d-f584f10a565d,2025-03-15,9767103e-87c0-4456-bb26-1c16c4148746,Vêtements,Management Vêtements,88.31,4,PayPal,Bretagne,Application mobile
+ea9edb23-8171-4949-96c3-eec3186d2027,2024-10-03,ca9a6335-8291-487f-8c63-0fc1b64da275,Fitness,Bar Fitness,43.59,2,Apple Pay,Occitanie,Site web
+064dedc3-796e-4e48-933e-4fd55157114a,2024-07-02,a8879c60-a963-4056-8022-bee4457d6de8,Cardio,Meeting Cardio,217.33,1,Google Pay,Hauts-de-France,Application mobile
+37be8e94-a6ed-4eff-ae95-7a1bc8f5a518,2024-11-23,b9fb5487-c2a5-4e6f-ad9c-e0e7b83e5bda,Cardio,Top Cardio,134.59,4,PayPal,Hauts-de-France,Marketplace
+7cb05399-46ea-4e21-b577-7c6693152da6,2024-08-01,7d67a450-5199-43d5-b9df-530ab4cc71fe,Vêtements,Send Vêtements,155.5,3,Google Pay,Occitanie,Marketplace
+ebd4d6f2-5168-40de-8458-4d912375dce9,2025-01-27,e7919150-bf09-4415-8a2e-8562dabf681e,Yoga,Memory Yoga,188.68,2,Google Pay,Grand Est,Marketplace
+ee964bba-0029-4b4f-b78b-32f31d0bdae4,2024-05-07,a3115b41-d2f7-4577-85ca-fe4058b62805,Cardio,Too Cardio,87.93,1,Carte bancaire,Bretagne,Site web
+7eff7a3f-7129-4953-8c10-97a7791f2644,2025-01-27,3362bbab-ce81-409f-8f42-be05c1eae50c,Yoga,Help Yoga,232.42,3,PayPal,Occitanie,Site web
+e1e93d98-e05f-4959-8a15-ca7a8e9b04dd,2024-08-10,e5b84410-169b-4c6b-8b06-2e327ab1aaba,Yoga,Compare Yoga,164.06,1,Apple Pay,Bretagne,Marketplace
+a5cdb6fe-1e19-4782-8a1f-01c38e9ef2e0,2024-07-28,d6964aaa-1c44-48b0-a18b-c23338f66847,Yoga,Actually Yoga,83.57,3,Apple Pay,Grand Est,Application mobile
+2b56884e-bc83-4df4-9aa1-3ce37550a0a2,2024-12-10,ad7c0c1f-7093-4739-8be4-158fed537879,Accessoires,I Accessoires,192.23,4,PayPal,Île-de-France,Application mobile
+405a3f1a-adb1-4246-828b-9ff932cd3736,2025-03-23,b5763c39-373d-4dd7-9aed-582399935af9,Vêtements,Carry Vêtements,109.43,4,PayPal,Grand Est,Site web
+6cca138c-d5a4-47de-9191-0859c85816dd,2024-04-19,a5d3e84f-2ce3-4539-8214-b7650d27978b,Yoga,Personal Yoga,172.72,3,Carte bancaire,Hauts-de-France,Site web
+7e664710-6713-4131-a591-39494c4b5039,2024-07-02,c8c7b39d-abc5-4994-bd9f-94968bb44224,Accessoires,Animal Accessoires,229.88,3,Carte bancaire,Île-de-France,Application mobile
+db228d27-e90d-46ac-9176-d841d82ff485,2024-07-02,34511a0f-6f53-4ba6-95d3-991645daff9f,Yoga,Technology Yoga,176.31,4,Apple Pay,Hauts-de-France,Application mobile
+cfc1b612-965f-4c0f-a5bf-afd3f708c8fd,2024-07-05,16f59a0e-4e2d-44bf-b447-5a5a5507671b,Vêtements,Doctor Vêtements,42.77,2,Carte bancaire,Hauts-de-France,Site web
+5c045ac2-8a33-47d9-bb5d-c2300aa148ba,2025-01-18,035d0a60-c377-425c-ae14-51ca7df6972c,Cardio,Before Cardio,34.94,4,Carte bancaire,Hauts-de-France,Site web
+c6e78c16-f9b8-4d0b-abf0-58229ee57de0,2024-06-19,850fb65b-19d3-483d-b0c5-28e44dc5922d,Accessoires,Reduce Accessoires,41.51,2,Apple Pay,Hauts-de-France,Marketplace
+06ab21b1-ff9c-4e09-9c4a-6c656f4587c5,2024-10-05,18724d18-6fbc-4ea2-9695-0b9d1c7715c7,Vêtements,Fear Vêtements,18.35,3,Carte bancaire,Grand Est,Site web
+09b069ad-7ced-4630-8a53-9991af03940d,2024-04-27,f7ca07ba-e635-4626-8b0a-2f792fbc9b5b,Fitness,Where Fitness,238.9,2,Carte bancaire,Grand Est,Application mobile
+67a817f6-5588-44b8-92af-3dd2229ab6ea,2024-12-26,89686ec2-cc32-4288-87ea-5a0459c05eeb,Vêtements,There Vêtements,146.72,3,Carte bancaire,Hauts-de-France,Marketplace
+ff419678-eade-49e1-b4b5-d138c0787957,2024-09-04,674cfce8-bf86-47bc-bf9a-22fcfaad091a,Yoga,Yet Yoga,235.34,2,PayPal,Grand Est,Application mobile
+39f50783-d1b5-4b6a-a1f7-51783a919443,2025-02-15,3a0ba632-aa60-498b-bcd2-36f4b6953f37,Fitness,Order Fitness,55.51,2,Google Pay,Bretagne,Marketplace
+a8768e45-a044-4373-8716-20f20da2625f,2025-04-01,26903eaf-5ee8-4cf0-a167-46bde3c14eb2,Fitness,While Fitness,131.02,4,Google Pay,Grand Est,Application mobile
+76110ce3-f12b-422b-90dc-271f0a8420d2,2024-09-17,92d0cb3c-1095-4a4a-a854-6b9855653113,Yoga,Finally Yoga,108.56,1,PayPal,Grand Est,Site web
+8813a1c4-e13d-4bd4-b2c6-e7449cfb6c23,2024-09-23,5fd13c21-d193-433f-b382-e5f27e2e66b5,Cardio,Leave Cardio,248.99,1,Carte bancaire,Hauts-de-France,Marketplace
+bb2048db-0fd1-47e9-8a01-1c4b5fc5fcf4,2025-02-27,44bc5366-c2f3-4b36-9b6d-cc2026d2e6cb,Vêtements,Hospital Vêtements,75.94,1,PayPal,Occitanie,Application mobile
+3748e869-523a-4885-a9c4-0be0f8c4c24c,2025-01-14,832392d2-f998-4d1e-9477-666de5f2fd24,Vêtements,Production Vêtements,64.79,3,Google Pay,Occitanie,Marketplace
+40010564-9167-4603-bb6c-aa22d00d990d,2024-04-30,f15e9668-0642-453c-839f-df1995951987,Yoga,Recent Yoga,28.43,1,Apple Pay,Bretagne,Marketplace
+9f525a6c-d62f-44cf-a2e3-d52ce1b23201,2024-05-03,41a9c49c-4cdc-488c-b3e2-6560fa51e4f6,Fitness,Phone Fitness,72.22,4,Apple Pay,Occitanie,Site web
+f51f34be-58bb-4c34-9953-a5f7e93888a1,2024-04-19,57fa8347-e1d9-4141-88c5-04a1b01a3e53,Cardio,Many Cardio,201.94,3,Carte bancaire,Hauts-de-France,Marketplace
+4c0dc995-fb90-4ceb-9c86-58166ec0ba40,2024-07-12,300eb311-3b65-483e-a7dd-9cc4baf48402,Vêtements,While Vêtements,110.67,4,Google Pay,Île-de-France,Site web
+88535ac6-3063-4f41-822a-847bb617a89a,2025-01-23,26e9db08-6d5f-473a-8710-699a3cdefeba,Fitness,Economy Fitness,158.12,4,PayPal,Grand Est,Application mobile
+d8be6689-0377-47f4-aca9-ef5520aec13e,2024-09-04,97a07e3c-4bf1-4c16-8cea-d05f5dd2eb86,Yoga,Lot Yoga,205.02,3,PayPal,Hauts-de-France,Site web
+4d153698-c86b-4199-ad78-c44f318124f1,2025-01-19,732152e9-e795-4031-8ca6-7e5e587523c3,Yoga,Series Yoga,190.72,2,Carte bancaire,Bretagne,Application mobile
+491a9f99-2f83-48e5-b3fe-c009cd8210ed,2024-04-17,d1ce4344-148c-4045-aafc-f2e0ea68e01b,Fitness,Green Fitness,219.86,3,Carte bancaire,Grand Est,Application mobile
+8285a0da-54b9-4136-8e07-b9515d59dcd2,2025-03-19,771804a6-313a-4aae-8f4c-910305d399da,Yoga,Own Yoga,74.31,3,Apple Pay,Hauts-de-France,Application mobile
+dfcdee17-2c05-4353-a371-b41808aa4290,2024-10-08,892b6280-21b1-4705-8138-0a44f06b12d9,Yoga,Let Yoga,179.75,4,PayPal,Occitanie,Site web
+f606753e-9aae-4a00-b9d4-6b6864920251,2024-09-28,21759ab1-df41-488c-a0c1-219d7a824644,Fitness,Fact Fitness,37.79,1,Apple Pay,Grand Est,Site web
+db867b44-9b90-437e-bdf1-3c4435fa1c82,2024-08-19,eb3b83e0-8a6e-4929-9d02-25a40589b7b6,Accessoires,Political Accessoires,139.84,4,Google Pay,Hauts-de-France,Marketplace
+adc78bb4-e409-4789-ad97-8bfa11783d31,2025-01-22,01572ed2-64fe-46c4-8c91-507874a3a14f,Accessoires,Democratic Accessoires,33.49,1,Carte bancaire,Île-de-France,Marketplace
+b6bebe1d-0c7b-4eb6-b0a2-bb327d20e22c,2025-02-24,55858dcf-de10-4499-8786-75d970dc3a27,Accessoires,Ahead Accessoires,158.51,1,Apple Pay,Île-de-France,Site web
+49cce31a-37b8-48d3-b964-0a9185c8f64c,2024-06-23,7bc3a46c-e0b8-4d23-8fb8-3264b5fae025,Cardio,Various Cardio,174.66,1,Carte bancaire,Île-de-France,Site web
+5bae099e-61e4-4efc-9d5b-3afa9ba2d6e1,2024-05-01,360f2af6-ee2d-4bbb-be7b-4880bfcb8cde,Accessoires,Black Accessoires,212.87,4,PayPal,Hauts-de-France,Marketplace
+23533107-f7f7-4bef-a3a1-ba410f80a97e,2024-06-17,efdc6203-831c-4b81-b8b9-4d2de65cdce3,Yoga,Whole Yoga,224.25,4,Apple Pay,Grand Est,Marketplace
+9669f265-8334-45db-b8e3-a3821ba3bcf2,2024-10-15,c9ad53f3-2741-4af7-ae7b-fc5aad317dee,Yoga,But Yoga,231.27,3,Apple Pay,Île-de-France,Marketplace
+d9e221d2-b07d-41c3-b479-48a1611f720b,2024-06-17,c2533241-2945-44e0-ab20-990da08deb92,Cardio,Majority Cardio,27.38,4,Apple Pay,Occitanie,Marketplace
+d577cc19-8bcc-48d6-b44d-23a10b2c08c8,2025-03-25,22cd4ab9-ea2b-487a-91d2-65812ca33649,Accessoires,Usually Accessoires,227.04,3,PayPal,Hauts-de-France,Marketplace
+e25c8399-05c2-44ab-b2d2-cd42cfea0966,2024-12-18,757041eb-bf5f-4cab-8b95-6f677c7bdf5b,Vêtements,Computer Vêtements,169.15,4,Google Pay,Bretagne,Application mobile
+5bab9260-1959-46c7-8871-6491768703a6,2024-08-28,6af7dea0-c793-41f4-8ca2-4f991d3ad582,Cardio,Interesting Cardio,22.65,2,Apple Pay,Hauts-de-France,Application mobile
+0fddff1c-ffd7-462d-acf2-f88e0180ec20,2025-02-15,c1575bc4-5eee-43d3-9788-25ab1cdff321,Yoga,How Yoga,53.24,2,Apple Pay,Occitanie,Application mobile
+70e10480-0001-450c-a2ee-befd37c80aee,2024-06-09,bf52e8e6-dba1-4271-afd1-5b6895fa40d0,Cardio,Bar Cardio,26.29,1,Apple Pay,Occitanie,Application mobile
+6204d7ef-c571-4caf-8d5c-c1dae71ac80f,2024-11-13,abd69a37-95aa-404f-8edc-1cf499cc27a8,Yoga,From Yoga,51.56,2,Carte bancaire,Grand Est,Application mobile
+0552e4f5-fb2c-4df4-8360-b17e9a915576,2025-03-11,0c848815-56bc-4530-85aa-0b8c6d6c879d,Fitness,Wind Fitness,92.7,3,Apple Pay,Grand Est,Application mobile
+ff101ad3-4ab0-4d64-a7cd-1b6a7b7f4847,2024-05-08,47f3584e-0078-4f5c-9fcf-59e469faf8f9,Fitness,Do Fitness,182.02,4,Google Pay,Bretagne,Marketplace
+dc1f1e1f-1ed3-4a1a-b8b6-c432c0da1763,2025-01-15,c3b9dac0-e793-4fb5-a6bf-54ba74507258,Cardio,Card Cardio,37.69,2,PayPal,Hauts-de-France,Marketplace
+0b5a7ea7-3f16-40fd-8696-c6296c62b737,2024-09-29,f3db5b40-92ad-4667-b5f4-8ceef82ac834,Vêtements,Meet Vêtements,214.57,4,Apple Pay,Grand Est,Marketplace
+8c489207-b15b-4e23-9aac-b7b8e7d6b657,2024-10-29,8c7849e4-24f0-4c31-8d0e-78a39f1bdc06,Accessoires,Water Accessoires,95.61,2,PayPal,Île-de-France,Site web
+5929bb3f-c7e1-4f4d-8159-ff955aa06bdd,2024-04-07,e1416632-43a6-4c91-a2a8-1cf8a8dd5f9b,Accessoires,Dream Accessoires,241.74,2,Apple Pay,Occitanie,Site web
+386a3e29-9319-4c25-9928-f0a6387b61ec,2025-03-28,6233c125-5495-419b-ab13-4d8eb2a3da85,Yoga,Language Yoga,235.09,2,Apple Pay,Hauts-de-France,Marketplace
+ceef7bc0-909f-4e20-bdee-2023e09dc069,2024-04-17,f9c7edc8-5ba5-4b82-8206-5967bd5e124f,Fitness,Hard Fitness,128.93,3,Apple Pay,Bretagne,Site web
+4e21cafb-c26b-4cf3-b14d-b40c9c19cb37,2024-11-13,b38c2c20-a9e5-4291-9b6a-02a67d5cc5c2,Fitness,Fact Fitness,143.47,2,PayPal,Grand Est,Application mobile
+1e268c6a-aaae-4151-8dcf-07ede810f783,2024-10-17,06787472-ca72-40c6-935f-5875268a2391,Fitness,Let Fitness,61.2,3,Apple Pay,Occitanie,Marketplace
+7d73afb1-cb28-4d9f-8702-d043cf50193d,2025-02-06,9c63aeb5-e7fc-4fb3-8fa1-121794ff5ad1,Vêtements,Record Vêtements,137.41,4,Apple Pay,Bretagne,Site web
+b594bf67-2eea-41ab-b88e-ecb44034edc9,2025-01-09,cf189313-6967-4309-a2dd-50387c50cfea,Vêtements,Decade Vêtements,20.85,2,Google Pay,Occitanie,Site web
+76474173-3384-461a-83f3-a04a00fb2b86,2025-02-03,9cabf4d5-5431-4608-8fe4-f524f2d9ba73,Accessoires,Edge Accessoires,114.91,2,Carte bancaire,Hauts-de-France,Site web
+17b814db-374d-48fc-81ed-3fe87f734be9,2024-06-03,64bf290c-6b25-4b15-9925-1f3c47617831,Yoga,Girl Yoga,169.3,1,Apple Pay,Hauts-de-France,Marketplace
+cc4410d3-bd31-4fec-9266-bec07028e41c,2024-12-11,29f26f40-e6bc-4f57-8fbc-69a8d24c1f82,Yoga,Point Yoga,166.66,3,PayPal,Occitanie,Application mobile
+d451fa91-a8dc-4bea-95ca-0a34f28ae265,2024-05-13,f0aeab54-4e00-4a49-a09e-a1649bf924e1,Fitness,Room Fitness,135.56,4,Google Pay,Bretagne,Site web
+f751afc3-27d5-4677-ad6e-b6db406594a5,2025-01-26,3af1eb12-6cc1-4ff3-b355-22b858992bcc,Fitness,Form Fitness,97.66,2,PayPal,Grand Est,Site web
+ecc6d40d-2d3e-401f-93c6-3e4fe9c6fdf2,2024-11-17,a7fa26d1-053f-4e3f-9cd7-f4ab8c65d72f,Vêtements,Member Vêtements,87.58,4,Google Pay,Bretagne,Site web
+bc7b9527-6d31-41d6-ac41-90819f1d2402,2024-04-20,0c794b59-a189-4e2b-92f4-7399a82e087d,Cardio,Through Cardio,215.69,1,Carte bancaire,Grand Est,Site web
+e10b0175-a777-4aa4-9de0-804d938bceba,2024-05-11,853616d2-3654-48a1-939d-e1fbc79c0cd9,Yoga,Gun Yoga,212.07,2,Carte bancaire,Hauts-de-France,Marketplace
+770f6e4c-8df6-4513-8f1f-91464e25973b,2025-03-28,a7dd1353-2ceb-41ea-885f-699036cbb2d4,Vêtements,Thought Vêtements,43.97,2,Apple Pay,Hauts-de-France,Application mobile
+55d5ba0c-82b9-4676-976d-ce3a5cd4fbf4,2025-02-28,049b1cf1-65d5-47fc-b983-cbda12e66257,Accessoires,Message Accessoires,77.48,2,PayPal,Bretagne,Application mobile
+4bb83f1b-45b8-43d6-9ac3-e808c826b49c,2024-08-24,8d5bef5d-a0a5-48f1-89eb-2b5625539915,Vêtements,Want Vêtements,246.39,1,Carte bancaire,Bretagne,Marketplace
+21021e4b-63d2-400e-84a7-b0c3eadecf1c,2024-05-22,43007579-23d3-4fe8-abaa-7f6500e39154,Yoga,Wear Yoga,58.87,1,Carte bancaire,Grand Est,Application mobile
+bab12509-e625-4266-a94c-560845c489fc,2024-07-14,6634b74b-b395-4c59-892f-caad4ccff207,Vêtements,Employee Vêtements,78.24,1,Apple Pay,Occitanie,Marketplace
+301cf521-79e2-4c9e-a452-a7dee403505c,2024-10-27,0f7c795c-680b-4961-9089-f428d68c6a8c,Fitness,He Fitness,180.48,3,Carte bancaire,Occitanie,Site web
+1e182435-97f0-4dc6-b661-f5795824f5f9,2024-07-21,5a4b20d9-63d1-4cd5-8053-54bc75a57aee,Fitness,Trouble Fitness,110.43,1,Carte bancaire,Île-de-France,Application mobile
+bc8462c5-a5da-470e-97b8-a64cf9dd1bc2,2024-10-11,604a17ab-ab54-449d-813d-16d57110f043,Cardio,Hit Cardio,173.9,4,Carte bancaire,Bretagne,Application mobile
+c654b7d3-8e26-40cf-a171-3e786b5491d3,2025-01-31,26061046-bde9-496a-9302-c05d1f2fbd64,Vêtements,Give Vêtements,189.94,2,Carte bancaire,Hauts-de-France,Marketplace
+e2ccbe31-4c3e-4da3-a692-2191629edadb,2024-06-25,b6ba96cb-dd9b-4b74-903c-7dec95fb681d,Vêtements,Subject Vêtements,234.2,1,PayPal,Bretagne,Site web
+03bd9608-e005-45e5-8ff1-8ff98f9add44,2025-03-20,c2ea7a90-17aa-4d3e-a285-f56a516bdf12,Fitness,Single Fitness,172.73,2,Carte bancaire,Hauts-de-France,Marketplace
+784173b1-f117-44de-9c91-b285142ea8de,2024-04-07,d0d6e2fe-ff0e-4b4f-a893-4fb1d4041203,Vêtements,American Vêtements,180.41,1,Apple Pay,Grand Est,Site web
+81177fb9-80ff-4bdf-994c-c92c49d00ded,2025-03-21,e637b9a8-aff3-4ea2-b1d9-ee2f8a6ba896,Vêtements,Religious Vêtements,91.84,1,Apple Pay,Grand Est,Marketplace
+122c5a26-179e-4ec7-bef5-df06552db07b,2024-11-11,2a18a59a-b772-4ff1-9451-dd57031d9bae,Accessoires,Other Accessoires,181.79,4,Apple Pay,Grand Est,Site web
+acdd0eb6-c7d7-418a-8add-41c3be758252,2025-01-09,0c06d15b-fdad-4558-a536-6bad42828f8b,Cardio,A Cardio,207.67,4,Google Pay,Grand Est,Application mobile
+5e6a0048-fb3d-4dc7-b304-3ba17bc84701,2025-01-09,841d9caa-ff0f-4354-9b9a-373606015557,Accessoires,Table Accessoires,170.6,2,Google Pay,Bretagne,Site web
+1b8f1631-ecff-4986-834a-d2f3ae8e2c8f,2025-01-08,c30fdc5f-f13b-4bfd-92b9-db44a3712523,Cardio,Top Cardio,238.99,4,Google Pay,Grand Est,Application mobile
+2bfae5bd-3c04-4f08-87b5-b818eab47158,2024-07-13,7445683a-e141-4f32-acb5-425d1eea93a7,Yoga,Family Yoga,90.11,3,Google Pay,Hauts-de-France,Application mobile
+696e08a1-fe5a-43ee-ab06-3417497fe9e2,2025-02-25,752262ea-feed-4f8c-a9c2-14c2c5eacfc9,Yoga,Agent Yoga,220.59,4,Google Pay,Grand Est,Site web
+85976aee-1f5a-4098-a72f-39d4f96d8888,2024-04-22,415fa237-2d8d-457f-806b-9cfb47d5c849,Fitness,Billion Fitness,73.68,4,PayPal,Grand Est,Marketplace
+2bade3c2-8ce2-4839-ac2c-27f670f87e8c,2024-04-13,a297c203-4045-453a-8541-9d76c59e29b2,Accessoires,Science Accessoires,122.92,2,Apple Pay,Île-de-France,Application mobile
+55d2270c-42c9-421d-8e9d-b84cc37e4f09,2024-06-16,68cd7b52-72c9-4853-9a5c-9c29d0b3e60d,Vêtements,Even Vêtements,243.85,3,Apple Pay,Île-de-France,Application mobile
+8bea0d97-b5ec-4fff-82bc-01297c9799cf,2025-01-27,c4101d8b-e764-4d27-b18a-64922637b1df,Fitness,Less Fitness,77.94,4,Google Pay,Île-de-France,Marketplace
+af92fe2f-7c44-426f-be1d-784851c66596,2024-06-25,f6b8b0e5-364e-4e02-bd6b-d91768f8bf44,Accessoires,Only Accessoires,82.81,1,Google Pay,Occitanie,Marketplace
+e4b549fa-4708-492d-ae74-83ac8549d10e,2024-04-06,72d7819a-0d0c-438d-8628-bb90bc54202c,Yoga,Food Yoga,80.72,1,Carte bancaire,Bretagne,Marketplace
+35f6f1e8-d70c-4caf-baab-b18a76c66498,2024-08-31,994beff9-c0c7-4463-9e1c-5c88bceb6942,Fitness,Issue Fitness,192.55,1,PayPal,Île-de-France,Site web
+38dfec2f-c8a9-458d-9b69-2eb56cd7b072,2024-05-10,4001e46b-302e-412a-9be3-90ee930e64b5,Vêtements,Guy Vêtements,247.27,3,PayPal,Bretagne,Site web
+92de9f03-f7fe-4195-a725-5af33e20b972,2024-05-08,abb410c3-7ca0-4602-87b6-88e8568e5c0c,Accessoires,Pull Accessoires,122.98,2,Apple Pay,Occitanie,Site web
+a13269ec-9dec-4ec3-8cb2-502209ef5d81,2025-02-09,016fd1e0-3dc5-4cdf-8d24-1180a34d3e8e,Vêtements,Family Vêtements,137.9,4,Carte bancaire,Grand Est,Application mobile
+c3f4079f-b3b6-4ecd-a518-2fab085d9330,2024-05-15,92b9fd8e-9bf0-43dd-ae6c-1d13cc8191a3,Vêtements,Develop Vêtements,92.51,3,Apple Pay,Bretagne,Marketplace
+d9a1e9b5-b45e-42be-a374-ed08de801637,2024-05-05,404a033a-1ee0-444b-8bce-207281d6c3d6,Fitness,Social Fitness,100.37,3,PayPal,Hauts-de-France,Marketplace
+b9a20e38-20c0-4103-a1a7-8cee4388d61b,2024-04-15,cd9dad91-e973-4f6e-9354-7026ee06482d,Cardio,Staff Cardio,184.78,3,Carte bancaire,Hauts-de-France,Application mobile
+f911527d-f3f2-4563-84e7-726068b54951,2024-07-11,f940e7a0-4dfc-44c9-b780-7f5a1f5bd610,Yoga,Material Yoga,200.27,4,Apple Pay,Île-de-France,Site web
+2fb7045b-f2ad-4ea8-9112-ee50ee5d0748,2024-10-14,f5e3560b-edc7-4a63-8f54-576ab77e83c2,Accessoires,Feel Accessoires,20.39,1,PayPal,Bretagne,Application mobile
+ca497c8c-9c28-42b7-83c1-fb77a6ab032b,2024-05-23,4476a012-ef29-4530-ac01-bccacc11ed3d,Accessoires,Least Accessoires,43.76,3,Google Pay,Hauts-de-France,Marketplace
+e3ef01b4-ab3e-49bf-b675-5664260fe18c,2024-06-30,4750736c-ebee-4b23-9b99-70ced1031ce0,Vêtements,Bank Vêtements,249.34,3,Apple Pay,Bretagne,Site web
+8059304d-6610-4b3a-9610-36b2f29eaa74,2024-06-14,52fe7582-e77c-4e67-a563-84a6e4c4fd6a,Yoga,Natural Yoga,169.64,3,Google Pay,Bretagne,Site web
+83f51c2a-004b-4e4f-b007-9d56a6924e3f,2024-12-30,027a3553-1ecb-4349-b865-6e1dc8a4620a,Cardio,Friend Cardio,124.95,3,Apple Pay,Occitanie,Marketplace
+0b1cecf0-8087-4a00-8938-ff98bc04799e,2025-03-19,c7d6a99f-709c-4948-97db-86d20d9964c3,Yoga,Moment Yoga,231.25,4,Apple Pay,Occitanie,Application mobile
+7fc6a7dd-93bb-4ec7-8de9-796c5004e6b2,2025-03-10,7a1eb47f-5da0-4f15-b3ec-c8737d225ad2,Yoga,Officer Yoga,130.11,2,PayPal,Île-de-France,Application mobile
+258a7f9e-f09c-4c19-8240-8c74fcbce1b5,2024-08-21,6e579dfb-eac4-4e37-bb8b-63536af50ef5,Cardio,Food Cardio,223.65,4,Carte bancaire,Hauts-de-France,Site web
+d0a6787a-41cc-44af-bb3b-ccc021eaab87,2025-03-20,586b94e0-3514-45bb-a196-702df2808552,Vêtements,Their Vêtements,53.3,3,Google Pay,Grand Est,Site web
+c4c0bddc-83f9-4d47-84f9-a634878aa450,2024-09-18,9a64a069-74d6-4c1b-95f3-0a418e94865d,Vêtements,Base Vêtements,70.66,3,Carte bancaire,Grand Est,Site web
+bb9b52bb-89d5-4ad1-8b17-880ac01cdc64,2024-04-29,92eeec04-2bf6-483b-ac88-73d66317fbe5,Accessoires,Compare Accessoires,217.62,3,PayPal,Hauts-de-France,Marketplace
+36f60a7a-0bdf-43d3-8d51-93f4db07a42f,2025-01-12,3ba97ccf-bfa7-40dd-b56f-5cfb845fb06e,Cardio,Speech Cardio,31.48,3,PayPal,Occitanie,Application mobile
+65f8436e-ddd8-44b9-bd38-a96bff625005,2025-03-30,394eae1d-16c6-4a0d-b1be-378efa7f50ec,Vêtements,Plan Vêtements,231.02,2,Apple Pay,Bretagne,Application mobile
+9cb72786-8a57-4cce-a563-1b6f1e4553eb,2024-12-28,6e1c55e0-2f84-4709-a7d4-8dcce058f729,Accessoires,Space Accessoires,244.09,3,Google Pay,Hauts-de-France,Marketplace
+589058dd-06a7-4a9d-a6f7-01bd01a2b070,2025-01-31,e53585f7-8b34-4c55-a05a-831d3e78111d,Cardio,Else Cardio,161.41,1,Google Pay,Occitanie,Marketplace
+6324d67d-002e-4080-a05d-7ae005e1c03f,2025-01-06,ea2a6bb0-c7cb-4b68-8ab4-efa49ce141f7,Cardio,Understand Cardio,79.99,2,Apple Pay,Grand Est,Application mobile
+2520a7af-e608-4917-9777-2f08d2772f47,2024-09-14,ded2b999-0ec8-459d-a5cf-ec59f0c36e59,Vêtements,International Vêtements,19.27,4,Carte bancaire,Bretagne,Application mobile
+470d43e7-e4d6-4066-8aa6-b89149c87f7b,2024-12-28,acf2e92b-cf41-4c8b-b83b-b3eb6715ed17,Fitness,Evidence Fitness,144.32,3,Carte bancaire,Hauts-de-France,Application mobile
+1df4ef1f-b68b-4674-afad-205f4b5fbb45,2025-01-25,1fb8748a-c1c0-443f-b700-106b1de9bf2b,Accessoires,Final Accessoires,112.87,2,Google Pay,Île-de-France,Site web
+9cfb1121-6bcb-4805-8002-c069a6ad36c8,2024-12-22,7d8d40ed-a896-494f-9a4c-0455aa0c269c,Yoga,Before Yoga,101.76,4,Google Pay,Occitanie,Application mobile
+ff8d99ef-d66c-4e9b-a5b2-2eceae3b88d8,2024-12-10,56704d52-b1a8-40b9-87c1-ba3d665faf38,Yoga,Same Yoga,38.52,3,Carte bancaire,Occitanie,Marketplace
+f0254a83-f577-455a-ab2a-84bde9f636b8,2024-09-12,4b35f58e-bf24-4f25-9ec7-9f14c067a984,Yoga,Sense Yoga,159.99,3,Apple Pay,Île-de-France,Application mobile
+d8aa010f-c24f-417e-b1cb-36bdc425da6a,2024-07-18,a9457316-eff4-48dd-94f0-64da2cca3e76,Yoga,Anyone Yoga,248.45,2,Google Pay,Île-de-France,Marketplace
+9a4ce961-ae95-4bd6-ab5b-7b703b6c04e3,2025-03-30,3a0cce61-e550-4902-a449-d8e120e4ec7c,Fitness,Debate Fitness,124.12,3,Apple Pay,Occitanie,Site web
+1cd712f5-b412-457c-acdd-241a7d379757,2024-05-03,c74c8934-4c3a-4837-a245-421fc6949e18,Vêtements,Adult Vêtements,37.93,2,PayPal,Hauts-de-France,Site web
+6c8d9550-36f1-4e6c-b523-b8e9b524eab7,2024-10-24,b029846b-a831-4337-9ef7-ea2ab4218517,Yoga,Itself Yoga,205.32,1,Carte bancaire,Bretagne,Application mobile
+8d2a78e9-f5c2-4629-b3e8-6c925b6824c9,2024-06-18,edb61124-6204-49eb-8df1-e51f02c1b8a9,Fitness,Into Fitness,38.81,4,PayPal,Occitanie,Site web
+7a660f41-221d-4db1-a54b-f8defc0bbf83,2024-05-01,3ad0b3c8-c777-496f-8b65-4716f6fbf097,Vêtements,Adult Vêtements,140.73,3,Apple Pay,Île-de-France,Site web
+da8c5f92-4da3-43fb-8f1e-b639ae7d785f,2024-11-01,f79f19fe-0694-41c5-b1ef-1563eeed879f,Yoga,Fish Yoga,34.35,2,Carte bancaire,Hauts-de-France,Marketplace
+e96068a7-3f25-484a-83eb-0572b1f35276,2024-11-09,6102d5bf-87f0-4347-bc40-ecc972e7aa9c,Yoga,Drop Yoga,176.65,2,Carte bancaire,Grand Est,Site web
+0f14fb1e-0633-4f2f-8827-e208908d564b,2024-05-02,3c06d36d-cc12-4ffd-9865-9b1ab99dfa1b,Fitness,Rise Fitness,203.13,2,Carte bancaire,Grand Est,Marketplace
+340f110a-ec5b-43fd-86e6-67e44516eebd,2025-04-06,3e219b0e-216b-44cd-8a10-168ea0d5c2f0,Vêtements,Simple Vêtements,60.18,2,Google Pay,Île-de-France,Application mobile
+73aa6496-e346-444b-b3ef-6efabfbc6d4b,2024-11-01,07abe5b9-16ef-421f-96a9-f934ccf86bd5,Cardio,Day Cardio,126.59,4,Carte bancaire,Bretagne,Site web
+0602d0e4-df18-447e-89f7-a52dc2f69e9b,2025-02-18,ee10ddc7-6a4f-486a-897e-bb3e0a3a4f08,Vêtements,Whose Vêtements,32.62,3,Apple Pay,Hauts-de-France,Site web
+67438baf-c98f-45a4-b70b-c6ce3a56ab0b,2024-12-09,66f4a219-8b10-4921-aa83-5fd63098acd4,Cardio,Animal Cardio,230.69,3,PayPal,Bretagne,Marketplace
+8c26de5e-d548-4273-9d94-f0b44df6a5bf,2025-02-28,dd968eb7-79bd-4045-b3b5-896ab8c4c505,Fitness,Day Fitness,84.41,3,PayPal,Grand Est,Marketplace
+e7d16601-5e7d-460a-a3ef-3f2f4cc77310,2024-11-24,7a2ddb38-747c-4e83-812a-f776389f5f8e,Vêtements,Also Vêtements,98.56,3,Apple Pay,Hauts-de-France,Marketplace
+db5689ee-a5e1-4228-b3fe-aa44da74eacd,2024-05-11,ad044570-372a-4757-bd8e-8c6584a6bc82,Vêtements,Energy Vêtements,116.95,1,PayPal,Île-de-France,Application mobile
+f36b9a53-9c14-45fe-b467-f9d53e6af3c9,2024-10-09,f014c5e3-6b91-44c3-93db-38ecb78e466d,Accessoires,Listen Accessoires,118.69,2,Google Pay,Île-de-France,Site web
+6d859433-4445-4d8f-94c1-4ceda79bc6c7,2024-06-29,ae7d7c67-af01-4c6d-9b8a-3a81e97b28de,Fitness,Economy Fitness,123.34,3,Google Pay,Hauts-de-France,Site web
+068c5f1f-6be0-467f-848b-43bd4e731ce9,2024-11-23,576b53cf-a789-4cba-9ed6-2028b80a7a62,Yoga,Certain Yoga,194.47,3,Google Pay,Occitanie,Marketplace
+7864a723-f094-4dbf-85a2-f59e8c5ee98a,2024-04-06,3edce2eb-0e37-4fff-a21e-3d8221fcfa07,Yoga,Treat Yoga,180.37,4,Carte bancaire,Bretagne,Marketplace
+495b41ae-4937-4e9c-ad54-30e625fd2a6d,2024-12-16,4279380b-220e-48e6-b42b-ee0a639af905,Cardio,Least Cardio,108.22,1,Carte bancaire,Île-de-France,Marketplace
+ed69654a-11a9-4b6d-9286-958d3d2db575,2024-08-04,11dc07ea-f5dd-4ead-8d66-a645fafc81a1,Fitness,Poor Fitness,79.09,3,Carte bancaire,Grand Est,Application mobile
+8f03866a-cef4-4b97-aa92-d3cc2645c284,2024-05-29,e5943d04-3259-4486-89e2-dfd9cdd96a60,Fitness,About Fitness,186.73,4,Apple Pay,Hauts-de-France,Site web
+464a4d11-05e9-419d-bfa8-bc9f97fd2549,2025-01-18,40e78168-1364-4daf-a62a-5de787800c65,Accessoires,Heart Accessoires,195.43,4,Google Pay,Île-de-France,Marketplace
+62c4b71d-a9d8-4808-94fc-71c1c5a699df,2024-07-02,42e3a4c9-af55-419a-a82f-c187a08ffb9c,Fitness,Effect Fitness,63.37,1,Google Pay,Île-de-France,Application mobile
+bc6fe465-f071-42d8-8dce-3bc1a9e0b72e,2024-11-15,459d3f9d-e25f-4838-8387-85af6d5600b5,Accessoires,Agency Accessoires,53.25,2,PayPal,Hauts-de-France,Application mobile
+5a53ea62-b197-4512-8e34-217493fce466,2024-10-24,b5704f97-52f8-42d4-9292-e1b615d67ba1,Cardio,Laugh Cardio,137.36,4,Apple Pay,Hauts-de-France,Application mobile
+2b49ecf8-cef0-4e02-86a5-1f439f6f49b5,2024-09-25,a913278a-638b-44b0-9615-39ad6cc6a24c,Cardio,Why Cardio,221.19,4,PayPal,Hauts-de-France,Site web
+cc038f8d-3922-4341-9bed-0b9763fe054c,2024-08-10,69907f6e-9e70-4a92-ada6-17d0b7dfba9e,Fitness,Campaign Fitness,161.68,2,PayPal,Île-de-France,Site web
+6616b3f2-3c6e-40bd-9b5b-36f49f5782c7,2024-05-28,e1eb21e9-0317-4783-8e14-1270a9c4d3e1,Cardio,Loss Cardio,44.8,4,Google Pay,Occitanie,Marketplace
+2801820a-9d1b-409c-8ab5-a329ad373ab3,2024-12-20,8f4a79d6-dd01-4124-8889-d08b6338c647,Yoga,Past Yoga,42.1,4,Carte bancaire,Bretagne,Application mobile
+e150c35b-cb29-430d-8362-9cdf69fe2a6d,2024-09-25,753c0878-30e1-487b-b546-7e07e1ef9571,Fitness,Soon Fitness,129.7,4,PayPal,Bretagne,Site web
+61302f41-fc45-409d-8769-4db2687854cd,2024-12-17,d44c2ffc-cf90-4df0-a49c-30632dae2d92,Vêtements,Along Vêtements,198.65,3,Carte bancaire,Bretagne,Marketplace
+006d4890-29e7-4e6f-9cc2-0287dbd9bad6,2024-10-17,f2419025-c208-406e-a84b-92e4417f52f8,Cardio,Loss Cardio,66.83,2,Google Pay,Grand Est,Site web
+82773ac4-d33f-42a0-b17f-3f8f946aa956,2024-04-19,f1680900-0b62-4644-910d-3e91def3437e,Vêtements,Food Vêtements,220.22,2,Carte bancaire,Île-de-France,Site web
+bd4d21c6-6968-430b-9361-d54a2a522ca9,2025-01-05,aea5b248-37ef-4282-bbcd-48769368825f,Yoga,Example Yoga,167.38,2,Apple Pay,Île-de-France,Application mobile
+7002eaa8-c850-4968-b756-6cb78fcd8331,2024-04-13,98f44bb6-8062-4250-a316-4ec87f270538,Cardio,Me Cardio,126.3,2,Carte bancaire,Hauts-de-France,Application mobile
+e569ff93-1229-4934-807d-8a4b55c16178,2024-09-13,acebb9f4-f387-4e0a-9ec4-35d799c70a51,Cardio,Model Cardio,148.91,1,Apple Pay,Bretagne,Application mobile
+b952df55-5b94-4bd7-b751-67cdaa83752d,2024-12-20,179c5ad9-48a8-44f9-8af6-148a8a88dda1,Accessoires,Yard Accessoires,209.13,1,Carte bancaire,Hauts-de-France,Marketplace
+74f7d011-84d4-43f1-949a-669ca4b73605,2024-07-08,e1b0ab3d-ddc1-4ba9-adf8-a712a238e9f4,Vêtements,Year Vêtements,247.76,2,Apple Pay,Occitanie,Site web
+045ac1f1-245d-487e-8d51-9ef7afb8b8cb,2024-05-14,43212a17-8580-4d7d-a12b-56e53bc308c5,Fitness,At Fitness,18.85,1,Google Pay,Bretagne,Application mobile
+82e8ad4b-f474-488e-b218-c81c9490a7e2,2024-07-27,6e61729a-109b-4d52-9d60-cae9f78c2483,Yoga,Network Yoga,28.23,2,PayPal,Occitanie,Marketplace
+356a3cc9-14d4-4eb2-846f-d4692c14cacf,2025-03-31,3bba7f0b-7b71-48f1-97d8-1319369e0259,Vêtements,Movie Vêtements,177.59,4,PayPal,Île-de-France,Application mobile
+fadf6909-f3bb-4b12-9901-9238fae4274a,2024-10-18,71c0273f-adf4-4c96-917c-f8ad2cafdec9,Vêtements,Goal Vêtements,123.92,4,Google Pay,Hauts-de-France,Application mobile
+6f41963f-e8d3-4bde-9049-bc2487c0c50d,2024-04-09,536b9c33-64bf-4005-b491-7aa31a538e75,Accessoires,Across Accessoires,106.59,1,Google Pay,Occitanie,Site web
+70d7263c-933a-4403-ba7d-4025f4a8986a,2025-02-27,5e1331cc-3b52-4f8a-81a1-f7a87b7db857,Yoga,Community Yoga,228.73,1,PayPal,Hauts-de-France,Marketplace
+3e483fd7-9e19-4c23-a2af-ecec5a2362aa,2025-03-13,85652cd1-2232-4230-be6d-12197d79b696,Fitness,Rich Fitness,212.85,3,PayPal,Bretagne,Site web
+491b98c9-0686-47b7-ab1c-6d81115e5387,2024-08-19,d47130a9-fe37-4b85-9a93-11e843c3d665,Yoga,Attention Yoga,54.94,1,PayPal,Île-de-France,Site web
+582e6bf5-0e88-4166-b708-21d18ca4cce8,2024-12-11,62e5e181-b84b-423e-a9dd-e5734219c1e0,Vêtements,Remain Vêtements,119.31,2,PayPal,Bretagne,Marketplace
+89c3539d-b8b5-43cd-a39c-c0136732dd3a,2024-08-21,4e0f7a25-753f-4eb2-8683-603231628e68,Cardio,Treat Cardio,52.44,4,Apple Pay,Hauts-de-France,Site web
+eac089f1-f3b5-4fd3-a259-be360bdd06be,2025-03-06,a5c09ff9-f6cf-4735-b956-4a799b267421,Yoga,Perform Yoga,211.28,2,Google Pay,Occitanie,Marketplace
+8f7c82f7-d70b-4434-9675-cff96b571ab7,2024-10-29,4f751242-a00c-4233-a21d-e88ebd0af209,Accessoires,Thought Accessoires,168.61,1,Carte bancaire,Île-de-France,Marketplace
+fe44d770-e48d-4e00-b2fd-c2f1271ea55c,2024-09-21,b5f44cc7-d546-40c7-9dee-826b0d09ee8a,Cardio,American Cardio,67.84,4,Google Pay,Occitanie,Marketplace
+3658ec67-2796-4cf7-81b2-6e9d7efb83b3,2024-11-16,2bc50be0-1f23-471d-86bb-0f4f8263e2f7,Vêtements,International Vêtements,197.08,4,Apple Pay,Hauts-de-France,Marketplace
+b0c736c2-2b62-406e-aa00-c0b6361d5b02,2024-06-11,868db63d-353b-425d-85bc-8d610a3f2a9b,Fitness,Property Fitness,126.6,1,Carte bancaire,Occitanie,Site web
+920ca57d-31da-4177-ba05-9acfe67b205f,2024-11-09,b889ef86-842d-4e24-9f10-cff9bb4b1b97,Yoga,Look Yoga,123.0,2,Carte bancaire,Bretagne,Application mobile
+80699304-43a8-4d2b-bd4c-0445c94ad7ae,2025-01-19,a0a0620e-105c-48a0-89f5-fd1e7aecab5e,Yoga,Protect Yoga,142.82,2,Carte bancaire,Hauts-de-France,Marketplace
+ec614cb9-8733-4ef0-a59a-83a6ecd1ead6,2024-12-15,29f50d35-c31f-4d29-a19f-69dd4067b0fb,Fitness,Break Fitness,247.11,3,PayPal,Île-de-France,Application mobile
+c092b401-1c98-4c82-9be8-fcce43efde05,2025-03-18,d24b1393-077a-465c-bd27-7b2fd534d74b,Vêtements,Institution Vêtements,143.77,4,PayPal,Bretagne,Site web
+8635e326-f34f-4911-aa87-9e9f3f9da8bd,2024-04-27,0a02be6d-dac3-4c20-b217-d660245775ab,Accessoires,Study Accessoires,225.77,3,PayPal,Île-de-France,Application mobile
+bc6c0956-99bd-43d7-a820-e42e2a45a1d8,2024-06-29,60f7ceaa-5fe5-4fd7-a1b2-325597c670df,Vêtements,Morning Vêtements,116.7,4,Apple Pay,Grand Est,Site web
+a540e291-4f4a-4c6b-8665-8016238dd168,2024-11-02,e97dd8ec-fb12-473b-97a4-fcf1bab8b5af,Accessoires,In Accessoires,73.5,3,Apple Pay,Bretagne,Application mobile
+69d81fdc-b583-4fe7-9e63-51795ddeaea4,2024-04-07,4f69e987-2367-426e-9d4c-865681ed57f3,Fitness,Say Fitness,196.51,2,Google Pay,Hauts-de-France,Application mobile
+90d35b4b-6cdc-4ba8-8d5a-44d3cd1e2af3,2025-02-28,e35005fc-acb4-450b-9838-92c59fc66c5e,Yoga,Result Yoga,74.98,2,Carte bancaire,Occitanie,Application mobile
+7441cbb3-f8bb-497f-8184-dc74750ab32c,2024-10-20,4ccdf841-a3ff-49f5-a99b-4405b2b71c21,Cardio,Series Cardio,48.56,3,Apple Pay,Occitanie,Site web
+af161c27-6fe8-46ec-8bf2-88ea757bb65d,2024-12-19,24c9f1b3-0848-4979-b977-384a201ed2e9,Accessoires,Training Accessoires,18.71,4,PayPal,Île-de-France,Application mobile
+8e355963-ce8c-4f09-8e7f-02d89cac8de8,2024-07-08,35b8b62d-b546-450b-8913-8262d350cc6a,Yoga,Ability Yoga,131.58,4,Apple Pay,Hauts-de-France,Application mobile
+05f793ca-a51e-422c-bc28-18f040650430,2024-04-13,05128007-8576-4429-9a64-2c90103faa88,Cardio,Ability Cardio,176.24,4,PayPal,Bretagne,Marketplace
+920f42cf-12e9-4ba2-9b70-64ddf112e47b,2025-02-14,0847bd71-a24d-4770-a094-5809f562d39c,Yoga,Material Yoga,100.08,2,PayPal,Bretagne,Application mobile
+46f8f950-6f37-47b9-8dbb-11a7900de682,2024-06-02,61443bbe-3242-4351-a1b4-18cb52c6e9dc,Accessoires,Station Accessoires,151.81,4,Carte bancaire,Île-de-France,Marketplace
+fac4cd87-22d0-421c-a98f-d62e003f9789,2024-06-13,c3311940-d6c4-4a07-b699-28c4d0ae4a96,Accessoires,Him Accessoires,112.56,4,Apple Pay,Île-de-France,Marketplace
+783ab600-f640-4cd0-acee-06e815d06ee4,2024-05-15,cf8385aa-eecf-4667-9b3a-408164adea96,Yoga,Find Yoga,22.63,2,PayPal,Grand Est,Application mobile
+0d31b404-555e-40b2-b1a0-79dcf9bcd6c2,2024-09-02,9d5ad587-bf6c-49bd-aa54-47cbe91c802e,Vêtements,Bill Vêtements,152.36,1,Apple Pay,Île-de-France,Site web
+d03189c9-02ee-4525-a511-f3396f00ea60,2024-07-17,7ac73d8b-4a98-4b37-8af2-93fac7526ee4,Cardio,Subject Cardio,129.84,1,Carte bancaire,Occitanie,Application mobile
+148346a0-ca41-4666-b01c-7b6fb2d5e452,2025-03-31,434f2bff-e800-4d10-a324-79eb2ce9ed9e,Vêtements,Unit Vêtements,66.26,4,PayPal,Bretagne,Marketplace
+251b844a-eb12-44bf-818d-de7b199ad12f,2024-05-28,a52dd702-b949-4c69-8ad3-eb96116ff6e2,Cardio,Move Cardio,55.98,2,PayPal,Île-de-France,Site web
+d7f49792-703f-4a2d-b421-118ddfb34e4d,2024-09-30,6857e289-280d-47c7-910d-b5de9532c4c9,Cardio,Series Cardio,185.31,1,PayPal,Grand Est,Marketplace
